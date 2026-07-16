@@ -34,6 +34,7 @@ Sebuah aplikasi web interaktif berbasis **Streamlit** yang dirancang khusus untu
 
 *Tampilan Obrolan Bersama Asisten AI:*
 ![Chat AI](assets/screenshot_chat.png)
+![Chat AI 2](assets/screenshot_chat2.png)
 
 
 ---
