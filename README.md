@@ -7,7 +7,7 @@ Sebuah aplikasi web interaktif berbasis **Streamlit** yang dirancang khusus untu
 ## ✨ Fitur Utama
 
 1. **📈 Dashboard Visual Interaktif**
-   - Pantau total pendapatan tahunan dan metrik utama secara instan.
+   - Pantau total pendapatan selama **1 Tahun Terakhir** dan metrik utama secara instan.
    - Grafik tren penjualan harian yang memukau.
    - Peringatan dini (*early warning*) untuk stok barang yang sudah menipis.
 
@@ -15,9 +15,9 @@ Sebuah aplikasi web interaktif berbasis **Streamlit** yang dirancang khusus untu
    - Ringkasan performa penjualan khusus untuk bulan berjalan.
    - Rincian penjualan per menu (jumlah porsi dan total pendapatan) yang diurutkan dari produk terlaris.
 
-3. **🤖 Chat Asisten AI (What-If Analysis)**
-   - Ngobrol langsung dengan AI yang sudah memahami seluruh data penjualan dan stok toko Anda.
-   - AI mengetahui konteks lokasi (misal: cuaca Kota Solo) untuk memberikan strategi promosi yang relevan.
+3. **🤖 Chat Asisten AI**
+   - Ngobrol langsung dengan AI yang sudah memahami seluruh data penjualan dan stok toko selama setahun.
+   - **Integrasi Cuaca Real-Time**: AI terhubung dengan satelit *Open-Meteo API* untuk menarik data cuaca dan suhu Kota Solo secara *live*, sehingga saran promosi yang diberikan selalu sangat relevan dengan cuaca detik ini.
    - Tanyakan simulasi harga ("Bagaimana jika harga Kopi Susu naik 20%?") dan AI akan menghitung prediksinya.
    - UI obrolan yang elegan mirip dengan media sosial (sistem *bubble chat*).
 
@@ -43,6 +43,7 @@ Sebuah aplikasi web interaktif berbasis **Streamlit** yang dirancang khusus untu
 - **Bahasa Pemrograman:** Python 3.9+
 - **Antarmuka Web (UI):** Streamlit
 - **Pengolahan Data:** Pandas
+- **API & HTTP Client:** Requests (Open-Meteo API)
 - **Visualisasi Data:** Plotly Express
 - **AI & LLM:** LangChain & Google Generative AI (Gemini 1.5 Flash)
 - **Styling:** Custom CSS (Glassmorphism & Coffee Theme)

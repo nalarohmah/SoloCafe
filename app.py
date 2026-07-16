@@ -8,9 +8,33 @@ from datetime import datetime
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
+import requests
 
 # Load env variables
 load_dotenv()
+
+@st.cache_data(ttl=3600)
+def get_weather_solo():
+    try:
+        url = "https://api.open-meteo.com/v1/forecast?latitude=-7.5561&longitude=110.8317&current_weather=true"
+        response = requests.get(url, timeout=5)
+        if response.status_code == 200:
+            data = response.json()
+            temp = data['current_weather']['temperature']
+            code = data['current_weather']['weathercode']
+            
+            weather_desc = {
+                0: "Cerah", 1: "Cerah Berawan", 2: "Berawan Sebagian", 3: "Mendung",
+                45: "Berkabut", 48: "Kabut Tebal",
+                51: "Gerimis Ringan", 53: "Gerimis Sedang", 55: "Gerimis Lebat",
+                61: "Hujan Ringan", 63: "Hujan Sedang", 65: "Hujan Lebat",
+                95: "Badai Petir", 96: "Badai Petir Ringan", 99: "Badai Petir Lebat"
+            }
+            condition = weather_desc.get(code, "Tidak diketahui")
+            return f"Suhu {temp}°C, Kondisi: {condition}"
+        return "Tidak dapat memuat data cuaca (API Error)"
+    except Exception as e:
+        return "Tidak dapat memuat data cuaca"
 
 # --- Page Config ---
 st.set_page_config(page_title="AI UMKM Assistant", layout="wide")
@@ -374,7 +398,7 @@ with tab2:
                 {ringkasan_stok}
                 
                 INFORMASI LINGKUNGAN / KONTEKS TAMBAHAN:
-                Lokasi Kafe: Kota Solo / Surakarta, Jawa Tengah. Cuaca di Solo saat ini berpotensi mendung dan hujan di sore hari. Sesuaikan saran promosi dengan karakteristik cuaca ini jika relevan.
+                Lokasi Kafe: Kota Solo / Surakarta, Jawa Tengah. Cuaca di Solo saat ini: {get_weather_solo()}. Sesuaikan saran promosi dengan karakteristik cuaca ini jika relevan.
                 
                 ATURAN MENJAWAB:
                 1. Jawab HANYA apa yang ditanyakan secara ringkas dan padat. Jangan bertele-tele.
