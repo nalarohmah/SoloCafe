@@ -1,0 +1,9 @@
+ID_Barang,Nama_Barang,Kategori,Harga_Satuan,Stok_Saat_Ini,Batas_Aman
+C01,Espresso,Kopi,15000,200,50
+C02,Americano (Iced/Hot),Kopi,18000,150,40
+C03,Cafe Latte,Kopi,22000,120,30
+C04,Cappuccino,Kopi,22000,110,30
+C05,Matcha Latte (Iced),Non-Kopi,25000,80,20
+C06,Caramel Macchiato,Kopi,28000,90,25
+F01,Butter Croissant,Pastry,20000,25,10
+F02,Red Velvet Cake,Kue,30000,10,5

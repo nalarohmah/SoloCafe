@@ -1,0 +1,2921 @@
+Tanggal,Nama_Barang,Terjual,Total_Pendapatan
+2025-07-16,Espresso,28,420000
+2025-07-16,Americano (Iced/Hot),6,108000
+2025-07-16,Cafe Latte,18,396000
+2025-07-16,Cappuccino,37,814000
+2025-07-16,Matcha Latte (Iced),4,100000
+2025-07-16,Caramel Macchiato,34,952000
+2025-07-16,Butter Croissant,35,700000
+2025-07-16,Red Velvet Cake,19,570000
+2025-07-17,Espresso,25,375000
+2025-07-17,Americano (Iced/Hot),8,144000
+2025-07-17,Cafe Latte,12,264000
+2025-07-17,Cappuccino,28,616000
+2025-07-17,Matcha Latte (Iced),7,175000
+2025-07-17,Caramel Macchiato,26,728000
+2025-07-17,Butter Croissant,25,500000
+2025-07-17,Red Velvet Cake,6,180000
+2025-07-18,Espresso,10,150000
+2025-07-18,Americano (Iced/Hot),6,108000
+2025-07-18,Cafe Latte,25,550000
+2025-07-18,Cappuccino,5,110000
+2025-07-18,Matcha Latte (Iced),16,400000
+2025-07-18,Caramel Macchiato,26,728000
+2025-07-18,Butter Croissant,16,320000
+2025-07-18,Red Velvet Cake,29,870000
+2025-07-19,Espresso,33,495000
+2025-07-19,Americano (Iced/Hot),12,216000
+2025-07-19,Cafe Latte,45,990000
+2025-07-19,Cappuccino,45,990000
+2025-07-19,Matcha Latte (Iced),14,350000
+2025-07-19,Caramel Macchiato,37,1036000
+2025-07-19,Butter Croissant,55,1100000
+2025-07-19,Red Velvet Cake,49,1470000
+2025-07-20,Espresso,11,165000
+2025-07-20,Americano (Iced/Hot),14,252000
+2025-07-20,Cafe Latte,36,792000
+2025-07-20,Cappuccino,17,374000
+2025-07-20,Matcha Latte (Iced),40,1000000
+2025-07-20,Caramel Macchiato,20,560000
+2025-07-20,Butter Croissant,17,340000
+2025-07-20,Red Velvet Cake,35,1050000
+2025-07-21,Espresso,18,270000
+2025-07-21,Americano (Iced/Hot),22,396000
+2025-07-21,Cafe Latte,13,286000
+2025-07-21,Cappuccino,25,550000
+2025-07-21,Matcha Latte (Iced),6,150000
+2025-07-21,Caramel Macchiato,24,672000
+2025-07-21,Butter Croissant,19,380000
+2025-07-21,Red Velvet Cake,11,330000
+2025-07-22,Espresso,12,180000
+2025-07-22,Americano (Iced/Hot),19,342000
+2025-07-22,Cafe Latte,7,154000
+2025-07-22,Cappuccino,18,396000
+2025-07-22,Matcha Latte (Iced),21,525000
+2025-07-22,Caramel Macchiato,8,224000
+2025-07-22,Butter Croissant,22,440000
+2025-07-22,Red Velvet Cake,12,360000
+2025-07-23,Espresso,10,150000
+2025-07-23,Americano (Iced/Hot),26,468000
+2025-07-23,Cafe Latte,14,308000
+2025-07-23,Cappuccino,8,176000
+2025-07-23,Matcha Latte (Iced),26,650000
+2025-07-23,Caramel Macchiato,22,616000
+2025-07-23,Butter Croissant,16,320000
+2025-07-23,Red Velvet Cake,6,180000
+2025-07-24,Espresso,12,180000
+2025-07-24,Americano (Iced/Hot),7,126000
+2025-07-24,Cafe Latte,30,660000
+2025-07-24,Cappuccino,28,616000
+2025-07-24,Matcha Latte (Iced),4,100000
+2025-07-24,Caramel Macchiato,27,756000
+2025-07-24,Butter Croissant,35,700000
+2025-07-24,Red Velvet Cake,37,1110000
+2025-07-25,Espresso,25,375000
+2025-07-25,Americano (Iced/Hot),20,360000
+2025-07-25,Cafe Latte,17,374000
+2025-07-25,Cappuccino,22,484000
+2025-07-25,Matcha Latte (Iced),19,475000
+2025-07-25,Caramel Macchiato,25,700000
+2025-07-25,Butter Croissant,28,560000
+2025-07-25,Red Velvet Cake,29,870000
+2025-07-26,Espresso,40,600000
+2025-07-26,Americano (Iced/Hot),8,144000
+2025-07-26,Cafe Latte,45,990000
+2025-07-26,Cappuccino,40,880000
+2025-07-26,Matcha Latte (Iced),3,75000
+2025-07-26,Caramel Macchiato,69,1932000
+2025-07-26,Butter Croissant,22,440000
+2025-07-26,Red Velvet Cake,26,780000
+2025-07-27,Espresso,25,375000
+2025-07-27,Americano (Iced/Hot),19,342000
+2025-07-27,Cafe Latte,44,968000
+2025-07-27,Cappuccino,24,528000
+2025-07-27,Matcha Latte (Iced),36,900000
+2025-07-27,Caramel Macchiato,33,924000
+2025-07-27,Butter Croissant,19,380000
+2025-07-27,Red Velvet Cake,11,330000
+2025-07-28,Espresso,9,135000
+2025-07-28,Americano (Iced/Hot),14,252000
+2025-07-28,Cafe Latte,11,242000
+2025-07-28,Cappuccino,13,286000
+2025-07-28,Matcha Latte (Iced),11,275000
+2025-07-28,Caramel Macchiato,13,364000
+2025-07-28,Butter Croissant,12,240000
+2025-07-28,Red Velvet Cake,16,480000
+2025-07-29,Espresso,30,450000
+2025-07-29,Americano (Iced/Hot),10,180000
+2025-07-29,Cafe Latte,40,880000
+2025-07-29,Cappuccino,42,924000
+2025-07-29,Matcha Latte (Iced),3,75000
+2025-07-29,Caramel Macchiato,10,280000
+2025-07-29,Butter Croissant,20,400000
+2025-07-29,Red Velvet Cake,15,450000
+2025-07-30,Espresso,10,150000
+2025-07-30,Americano (Iced/Hot),2,36000
+2025-07-30,Cafe Latte,10,220000
+2025-07-30,Cappuccino,13,286000
+2025-07-30,Matcha Latte (Iced),7,175000
+2025-07-30,Caramel Macchiato,27,756000
+2025-07-30,Butter Croissant,9,180000
+2025-07-30,Red Velvet Cake,6,180000
+2025-07-31,Espresso,27,405000
+2025-07-31,Americano (Iced/Hot),18,324000
+2025-07-31,Cafe Latte,11,242000
+2025-07-31,Cappuccino,13,286000
+2025-07-31,Matcha Latte (Iced),19,475000
+2025-07-31,Caramel Macchiato,19,532000
+2025-07-31,Butter Croissant,14,280000
+2025-07-31,Red Velvet Cake,17,510000
+2025-08-01,Espresso,16,240000
+2025-08-01,Americano (Iced/Hot),8,144000
+2025-08-01,Cafe Latte,36,792000
+2025-08-01,Cappuccino,12,264000
+2025-08-01,Matcha Latte (Iced),3,75000
+2025-08-01,Caramel Macchiato,40,1120000
+2025-08-01,Butter Croissant,14,280000
+2025-08-01,Red Velvet Cake,22,660000
+2025-08-02,Espresso,12,180000
+2025-08-02,Americano (Iced/Hot),27,486000
+2025-08-02,Cafe Latte,17,374000
+2025-08-02,Cappuccino,36,792000
+2025-08-02,Matcha Latte (Iced),41,1025000
+2025-08-02,Caramel Macchiato,9,252000
+2025-08-02,Butter Croissant,22,440000
+2025-08-02,Red Velvet Cake,27,810000
+2025-08-03,Espresso,60,900000
+2025-08-03,Americano (Iced/Hot),6,108000
+2025-08-03,Cafe Latte,37,814000
+2025-08-03,Cappuccino,37,814000
+2025-08-03,Matcha Latte (Iced),15,375000
+2025-08-03,Caramel Macchiato,36,1008000
+2025-08-03,Butter Croissant,55,1100000
+2025-08-03,Red Velvet Cake,59,1770000
+2025-08-04,Espresso,7,105000
+2025-08-04,Americano (Iced/Hot),2,36000
+2025-08-04,Cafe Latte,43,946000
+2025-08-04,Cappuccino,43,946000
+2025-08-04,Matcha Latte (Iced),9,225000
+2025-08-04,Caramel Macchiato,25,700000
+2025-08-04,Butter Croissant,16,320000
+2025-08-04,Red Velvet Cake,9,270000
+2025-08-05,Espresso,18,270000
+2025-08-05,Americano (Iced/Hot),5,90000
+2025-08-05,Cafe Latte,13,286000
+2025-08-05,Cappuccino,7,154000
+2025-08-05,Matcha Latte (Iced),9,225000
+2025-08-05,Caramel Macchiato,21,588000
+2025-08-05,Butter Croissant,20,400000
+2025-08-05,Red Velvet Cake,36,1080000
+2025-08-06,Espresso,26,390000
+2025-08-06,Americano (Iced/Hot),28,504000
+2025-08-06,Cafe Latte,13,286000
+2025-08-06,Cappuccino,24,528000
+2025-08-06,Matcha Latte (Iced),21,525000
+2025-08-06,Caramel Macchiato,21,588000
+2025-08-06,Butter Croissant,24,480000
+2025-08-06,Red Velvet Cake,16,480000
+2025-08-07,Espresso,9,135000
+2025-08-07,Americano (Iced/Hot),2,36000
+2025-08-07,Cafe Latte,31,682000
+2025-08-07,Cappuccino,13,286000
+2025-08-07,Matcha Latte (Iced),8,200000
+2025-08-07,Caramel Macchiato,42,1176000
+2025-08-07,Butter Croissant,27,540000
+2025-08-07,Red Velvet Cake,27,810000
+2025-08-08,Espresso,26,390000
+2025-08-08,Americano (Iced/Hot),27,486000
+2025-08-08,Cafe Latte,9,198000
+2025-08-08,Cappuccino,5,110000
+2025-08-08,Matcha Latte (Iced),5,125000
+2025-08-08,Caramel Macchiato,23,644000
+2025-08-08,Butter Croissant,6,120000
+2025-08-08,Red Velvet Cake,25,750000
+2025-08-09,Espresso,16,240000
+2025-08-09,Americano (Iced/Hot),43,774000
+2025-08-09,Cafe Latte,12,264000
+2025-08-09,Cappuccino,43,946000
+2025-08-09,Matcha Latte (Iced),24,600000
+2025-08-09,Caramel Macchiato,44,1232000
+2025-08-09,Butter Croissant,33,660000
+2025-08-09,Red Velvet Cake,16,480000
+2025-08-10,Espresso,57,855000
+2025-08-10,Americano (Iced/Hot),3,54000
+2025-08-10,Cafe Latte,24,528000
+2025-08-10,Cappuccino,61,1342000
+2025-08-10,Matcha Latte (Iced),9,225000
+2025-08-10,Caramel Macchiato,48,1344000
+2025-08-10,Butter Croissant,41,820000
+2025-08-10,Red Velvet Cake,10,300000
+2025-08-11,Espresso,15,225000
+2025-08-11,Americano (Iced/Hot),8,144000
+2025-08-11,Cafe Latte,10,220000
+2025-08-11,Cappuccino,36,792000
+2025-08-11,Matcha Latte (Iced),3,75000
+2025-08-11,Caramel Macchiato,34,952000
+2025-08-11,Butter Croissant,9,180000
+2025-08-11,Red Velvet Cake,29,870000
+2025-08-12,Espresso,16,240000
+2025-08-12,Americano (Iced/Hot),9,162000
+2025-08-12,Cafe Latte,19,418000
+2025-08-12,Cappuccino,7,154000
+2025-08-12,Matcha Latte (Iced),4,100000
+2025-08-12,Caramel Macchiato,16,448000
+2025-08-12,Butter Croissant,28,560000
+2025-08-12,Red Velvet Cake,15,450000
+2025-08-13,Espresso,43,645000
+2025-08-13,Americano (Iced/Hot),11,198000
+2025-08-13,Cafe Latte,33,726000
+2025-08-13,Cappuccino,40,880000
+2025-08-13,Matcha Latte (Iced),5,125000
+2025-08-13,Caramel Macchiato,10,280000
+2025-08-13,Butter Croissant,14,280000
+2025-08-13,Red Velvet Cake,26,780000
+2025-08-14,Espresso,29,435000
+2025-08-14,Americano (Iced/Hot),24,432000
+2025-08-14,Cafe Latte,21,462000
+2025-08-14,Cappuccino,6,132000
+2025-08-14,Matcha Latte (Iced),5,125000
+2025-08-14,Caramel Macchiato,20,560000
+2025-08-14,Butter Croissant,16,320000
+2025-08-14,Red Velvet Cake,9,270000
+2025-08-15,Espresso,27,405000
+2025-08-15,Americano (Iced/Hot),13,234000
+2025-08-15,Cafe Latte,13,286000
+2025-08-15,Cappuccino,7,154000
+2025-08-15,Matcha Latte (Iced),23,575000
+2025-08-15,Caramel Macchiato,20,560000
+2025-08-15,Butter Croissant,20,400000
+2025-08-15,Red Velvet Cake,7,210000
+2025-08-16,Espresso,41,615000
+2025-08-16,Americano (Iced/Hot),44,792000
+2025-08-16,Cafe Latte,8,176000
+2025-08-16,Cappuccino,44,968000
+2025-08-16,Matcha Latte (Iced),38,950000
+2025-08-16,Caramel Macchiato,24,672000
+2025-08-16,Butter Croissant,33,660000
+2025-08-16,Red Velvet Cake,19,570000
+2025-08-17,Espresso,19,285000
+2025-08-17,Americano (Iced/Hot),38,684000
+2025-08-17,Cafe Latte,11,242000
+2025-08-17,Cappuccino,32,704000
+2025-08-17,Matcha Latte (Iced),46,1150000
+2025-08-17,Caramel Macchiato,11,308000
+2025-08-17,Butter Croissant,46,920000
+2025-08-17,Red Velvet Cake,35,1050000
+2025-08-18,Espresso,33,495000
+2025-08-18,Americano (Iced/Hot),2,36000
+2025-08-18,Cafe Latte,39,858000
+2025-08-18,Cappuccino,10,220000
+2025-08-18,Matcha Latte (Iced),8,200000
+2025-08-18,Caramel Macchiato,19,532000
+2025-08-18,Butter Croissant,10,200000
+2025-08-18,Red Velvet Cake,6,180000
+2025-08-19,Espresso,27,405000
+2025-08-19,Americano (Iced/Hot),10,180000
+2025-08-19,Cafe Latte,30,660000
+2025-08-19,Cappuccino,36,792000
+2025-08-19,Matcha Latte (Iced),11,275000
+2025-08-19,Caramel Macchiato,18,504000
+2025-08-19,Butter Croissant,14,280000
+2025-08-19,Red Velvet Cake,9,270000
+2025-08-20,Espresso,5,75000
+2025-08-20,Americano (Iced/Hot),20,360000
+2025-08-20,Cafe Latte,16,352000
+2025-08-20,Cappuccino,23,506000
+2025-08-20,Matcha Latte (Iced),26,650000
+2025-08-20,Caramel Macchiato,27,756000
+2025-08-20,Butter Croissant,26,520000
+2025-08-20,Red Velvet Cake,18,540000
+2025-08-21,Espresso,10,150000
+2025-08-21,Americano (Iced/Hot),17,306000
+2025-08-21,Cafe Latte,23,506000
+2025-08-21,Cappuccino,26,572000
+2025-08-21,Matcha Latte (Iced),12,300000
+2025-08-21,Caramel Macchiato,6,168000
+2025-08-21,Butter Croissant,25,500000
+2025-08-21,Red Velvet Cake,5,150000
+2025-08-22,Espresso,5,75000
+2025-08-22,Americano (Iced/Hot),9,162000
+2025-08-22,Cafe Latte,20,440000
+2025-08-22,Cappuccino,23,506000
+2025-08-22,Matcha Latte (Iced),8,200000
+2025-08-22,Caramel Macchiato,7,196000
+2025-08-22,Butter Croissant,21,420000
+2025-08-22,Red Velvet Cake,21,630000
+2025-08-23,Espresso,28,420000
+2025-08-23,Americano (Iced/Hot),40,720000
+2025-08-23,Cafe Latte,16,352000
+2025-08-23,Cappuccino,11,242000
+2025-08-23,Matcha Latte (Iced),20,500000
+2025-08-23,Caramel Macchiato,14,392000
+2025-08-23,Butter Croissant,44,880000
+2025-08-23,Red Velvet Cake,33,990000
+2025-08-24,Espresso,11,165000
+2025-08-24,Americano (Iced/Hot),8,144000
+2025-08-24,Cafe Latte,38,836000
+2025-08-24,Cappuccino,40,880000
+2025-08-24,Matcha Latte (Iced),43,1075000
+2025-08-24,Caramel Macchiato,8,224000
+2025-08-24,Butter Croissant,11,220000
+2025-08-24,Red Velvet Cake,35,1050000
+2025-08-25,Espresso,26,390000
+2025-08-25,Americano (Iced/Hot),7,126000
+2025-08-25,Cafe Latte,12,264000
+2025-08-25,Cappuccino,18,396000
+2025-08-25,Matcha Latte (Iced),28,700000
+2025-08-25,Caramel Macchiato,22,616000
+2025-08-25,Butter Croissant,19,380000
+2025-08-25,Red Velvet Cake,26,780000
+2025-08-26,Espresso,21,315000
+2025-08-26,Americano (Iced/Hot),2,36000
+2025-08-26,Cafe Latte,31,682000
+2025-08-26,Cappuccino,18,396000
+2025-08-26,Matcha Latte (Iced),2,50000
+2025-08-26,Caramel Macchiato,19,532000
+2025-08-26,Butter Croissant,19,380000
+2025-08-26,Red Velvet Cake,33,990000
+2025-08-27,Espresso,21,315000
+2025-08-27,Americano (Iced/Hot),10,180000
+2025-08-27,Cafe Latte,10,220000
+2025-08-27,Cappuccino,33,726000
+2025-08-27,Matcha Latte (Iced),11,275000
+2025-08-27,Caramel Macchiato,42,1176000
+2025-08-27,Butter Croissant,22,440000
+2025-08-27,Red Velvet Cake,14,420000
+2025-08-28,Espresso,17,255000
+2025-08-28,Americano (Iced/Hot),24,432000
+2025-08-28,Cafe Latte,5,110000
+2025-08-28,Cappuccino,12,264000
+2025-08-28,Matcha Latte (Iced),18,450000
+2025-08-28,Caramel Macchiato,20,560000
+2025-08-28,Butter Croissant,18,360000
+2025-08-28,Red Velvet Cake,16,480000
+2025-08-29,Espresso,19,285000
+2025-08-29,Americano (Iced/Hot),6,108000
+2025-08-29,Cafe Latte,6,132000
+2025-08-29,Cappuccino,27,594000
+2025-08-29,Matcha Latte (Iced),26,650000
+2025-08-29,Caramel Macchiato,23,644000
+2025-08-29,Butter Croissant,29,580000
+2025-08-29,Red Velvet Cake,26,780000
+2025-08-30,Espresso,41,615000
+2025-08-30,Americano (Iced/Hot),33,594000
+2025-08-30,Cafe Latte,38,836000
+2025-08-30,Cappuccino,22,484000
+2025-08-30,Matcha Latte (Iced),16,400000
+2025-08-30,Caramel Macchiato,30,840000
+2025-08-30,Butter Croissant,41,820000
+2025-08-30,Red Velvet Cake,24,720000
+2025-08-31,Espresso,12,180000
+2025-08-31,Americano (Iced/Hot),7,126000
+2025-08-31,Cafe Latte,60,1320000
+2025-08-31,Cappuccino,37,814000
+2025-08-31,Matcha Latte (Iced),10,250000
+2025-08-31,Caramel Macchiato,21,588000
+2025-08-31,Butter Croissant,22,440000
+2025-08-31,Red Velvet Cake,15,450000
+2025-09-01,Espresso,24,360000
+2025-09-01,Americano (Iced/Hot),19,342000
+2025-09-01,Cafe Latte,7,154000
+2025-09-01,Cappuccino,27,594000
+2025-09-01,Matcha Latte (Iced),12,300000
+2025-09-01,Caramel Macchiato,24,672000
+2025-09-01,Butter Croissant,20,400000
+2025-09-01,Red Velvet Cake,17,510000
+2025-09-02,Espresso,14,210000
+2025-09-02,Americano (Iced/Hot),23,414000
+2025-09-02,Cafe Latte,21,462000
+2025-09-02,Cappuccino,28,616000
+2025-09-02,Matcha Latte (Iced),23,575000
+2025-09-02,Caramel Macchiato,27,756000
+2025-09-02,Butter Croissant,9,180000
+2025-09-02,Red Velvet Cake,25,750000
+2025-09-03,Espresso,19,285000
+2025-09-03,Americano (Iced/Hot),6,108000
+2025-09-03,Cafe Latte,37,814000
+2025-09-03,Cappuccino,7,154000
+2025-09-03,Matcha Latte (Iced),2,50000
+2025-09-03,Caramel Macchiato,28,784000
+2025-09-03,Butter Croissant,7,140000
+2025-09-03,Red Velvet Cake,33,990000
+2025-09-04,Espresso,12,180000
+2025-09-04,Americano (Iced/Hot),17,306000
+2025-09-04,Cafe Latte,25,550000
+2025-09-04,Cappuccino,5,110000
+2025-09-04,Matcha Latte (Iced),20,500000
+2025-09-04,Caramel Macchiato,11,308000
+2025-09-04,Butter Croissant,9,180000
+2025-09-04,Red Velvet Cake,26,780000
+2025-09-05,Espresso,7,105000
+2025-09-05,Americano (Iced/Hot),16,288000
+2025-09-05,Cafe Latte,20,440000
+2025-09-05,Cappuccino,23,506000
+2025-09-05,Matcha Latte (Iced),9,225000
+2025-09-05,Caramel Macchiato,26,728000
+2025-09-05,Butter Croissant,29,580000
+2025-09-05,Red Velvet Cake,18,540000
+2025-09-06,Espresso,45,675000
+2025-09-06,Americano (Iced/Hot),13,234000
+2025-09-06,Cafe Latte,42,924000
+2025-09-06,Cappuccino,57,1254000
+2025-09-06,Matcha Latte (Iced),5,125000
+2025-09-06,Caramel Macchiato,37,1036000
+2025-09-06,Butter Croissant,41,820000
+2025-09-06,Red Velvet Cake,41,1230000
+2025-09-07,Espresso,12,180000
+2025-09-07,Americano (Iced/Hot),8,144000
+2025-09-07,Cafe Latte,14,308000
+2025-09-07,Cappuccino,43,946000
+2025-09-07,Matcha Latte (Iced),22,550000
+2025-09-07,Caramel Macchiato,41,1148000
+2025-09-07,Butter Croissant,14,280000
+2025-09-07,Red Velvet Cake,12,360000
+2025-09-08,Espresso,21,315000
+2025-09-08,Americano (Iced/Hot),9,162000
+2025-09-08,Cafe Latte,7,154000
+2025-09-08,Cappuccino,42,924000
+2025-09-08,Matcha Latte (Iced),3,75000
+2025-09-08,Caramel Macchiato,25,700000
+2025-09-08,Butter Croissant,10,200000
+2025-09-08,Red Velvet Cake,26,780000
+2025-09-09,Espresso,40,600000
+2025-09-09,Americano (Iced/Hot),2,36000
+2025-09-09,Cafe Latte,31,682000
+2025-09-09,Cappuccino,36,792000
+2025-09-09,Matcha Latte (Iced),11,275000
+2025-09-09,Caramel Macchiato,24,672000
+2025-09-09,Butter Croissant,28,560000
+2025-09-09,Red Velvet Cake,9,270000
+2025-09-10,Espresso,5,75000
+2025-09-10,Americano (Iced/Hot),23,414000
+2025-09-10,Cafe Latte,15,330000
+2025-09-10,Cappuccino,9,198000
+2025-09-10,Matcha Latte (Iced),16,400000
+2025-09-10,Caramel Macchiato,7,196000
+2025-09-10,Butter Croissant,5,100000
+2025-09-10,Red Velvet Cake,5,150000
+2025-09-11,Espresso,15,225000
+2025-09-11,Americano (Iced/Hot),16,288000
+2025-09-11,Cafe Latte,17,374000
+2025-09-11,Cappuccino,16,352000
+2025-09-11,Matcha Latte (Iced),18,450000
+2025-09-11,Caramel Macchiato,6,168000
+2025-09-11,Butter Croissant,23,460000
+2025-09-11,Red Velvet Cake,22,660000
+2025-09-12,Espresso,21,315000
+2025-09-12,Americano (Iced/Hot),12,216000
+2025-09-12,Cafe Latte,14,308000
+2025-09-12,Cappuccino,6,132000
+2025-09-12,Matcha Latte (Iced),23,575000
+2025-09-12,Caramel Macchiato,13,364000
+2025-09-12,Butter Croissant,11,220000
+2025-09-12,Red Velvet Cake,8,240000
+2025-09-13,Espresso,35,525000
+2025-09-13,Americano (Iced/Hot),27,486000
+2025-09-13,Cafe Latte,24,528000
+2025-09-13,Cappuccino,44,968000
+2025-09-13,Matcha Latte (Iced),12,300000
+2025-09-13,Caramel Macchiato,46,1288000
+2025-09-13,Butter Croissant,40,800000
+2025-09-13,Red Velvet Cake,46,1380000
+2025-09-14,Espresso,14,210000
+2025-09-14,Americano (Iced/Hot),20,360000
+2025-09-14,Cafe Latte,44,968000
+2025-09-14,Cappuccino,11,242000
+2025-09-14,Matcha Latte (Iced),33,825000
+2025-09-14,Caramel Macchiato,11,308000
+2025-09-14,Butter Croissant,32,640000
+2025-09-14,Red Velvet Cake,12,360000
+2025-09-15,Espresso,16,240000
+2025-09-15,Americano (Iced/Hot),11,198000
+2025-09-15,Cafe Latte,40,880000
+2025-09-15,Cappuccino,13,286000
+2025-09-15,Matcha Latte (Iced),6,150000
+2025-09-15,Caramel Macchiato,31,868000
+2025-09-15,Butter Croissant,35,700000
+2025-09-15,Red Velvet Cake,22,660000
+2025-09-16,Espresso,7,105000
+2025-09-16,Americano (Iced/Hot),13,234000
+2025-09-16,Cafe Latte,21,462000
+2025-09-16,Cappuccino,21,462000
+2025-09-16,Matcha Latte (Iced),24,600000
+2025-09-16,Caramel Macchiato,20,560000
+2025-09-16,Butter Croissant,29,580000
+2025-09-16,Red Velvet Cake,26,780000
+2025-09-17,Espresso,34,510000
+2025-09-17,Americano (Iced/Hot),8,144000
+2025-09-17,Cafe Latte,12,264000
+2025-09-17,Cappuccino,24,528000
+2025-09-17,Matcha Latte (Iced),5,125000
+2025-09-17,Caramel Macchiato,34,952000
+2025-09-17,Butter Croissant,20,400000
+2025-09-17,Red Velvet Cake,16,480000
+2025-09-18,Espresso,27,405000
+2025-09-18,Americano (Iced/Hot),9,162000
+2025-09-18,Cafe Latte,34,748000
+2025-09-18,Cappuccino,28,616000
+2025-09-18,Matcha Latte (Iced),8,200000
+2025-09-18,Caramel Macchiato,37,1036000
+2025-09-18,Butter Croissant,11,220000
+2025-09-18,Red Velvet Cake,9,270000
+2025-09-19,Espresso,24,360000
+2025-09-19,Americano (Iced/Hot),25,450000
+2025-09-19,Cafe Latte,8,176000
+2025-09-19,Cappuccino,25,550000
+2025-09-19,Matcha Latte (Iced),27,675000
+2025-09-19,Caramel Macchiato,20,560000
+2025-09-19,Butter Croissant,29,580000
+2025-09-19,Red Velvet Cake,11,330000
+2025-09-20,Espresso,33,495000
+2025-09-20,Americano (Iced/Hot),6,108000
+2025-09-20,Cafe Latte,42,924000
+2025-09-20,Cappuccino,21,462000
+2025-09-20,Matcha Latte (Iced),4,100000
+2025-09-20,Caramel Macchiato,64,1792000
+2025-09-20,Butter Croissant,31,620000
+2025-09-20,Red Velvet Cake,31,930000
+2025-09-21,Espresso,37,555000
+2025-09-21,Americano (Iced/Hot),8,144000
+2025-09-21,Cafe Latte,33,726000
+2025-09-21,Cappuccino,37,814000
+2025-09-21,Matcha Latte (Iced),13,325000
+2025-09-21,Caramel Macchiato,24,672000
+2025-09-21,Butter Croissant,22,440000
+2025-09-21,Red Velvet Cake,36,1080000
+2025-09-22,Espresso,14,210000
+2025-09-22,Americano (Iced/Hot),13,234000
+2025-09-22,Cafe Latte,22,484000
+2025-09-22,Cappuccino,6,132000
+2025-09-22,Matcha Latte (Iced),9,225000
+2025-09-22,Caramel Macchiato,9,252000
+2025-09-22,Butter Croissant,10,200000
+2025-09-22,Red Velvet Cake,23,690000
+2025-09-23,Espresso,17,255000
+2025-09-23,Americano (Iced/Hot),5,90000
+2025-09-23,Cafe Latte,26,572000
+2025-09-23,Cappuccino,24,528000
+2025-09-23,Matcha Latte (Iced),21,525000
+2025-09-23,Caramel Macchiato,11,308000
+2025-09-23,Butter Croissant,29,580000
+2025-09-23,Red Velvet Cake,17,510000
+2025-09-24,Espresso,10,150000
+2025-09-24,Americano (Iced/Hot),23,414000
+2025-09-24,Cafe Latte,16,352000
+2025-09-24,Cappuccino,26,572000
+2025-09-24,Matcha Latte (Iced),11,275000
+2025-09-24,Caramel Macchiato,14,392000
+2025-09-24,Butter Croissant,23,460000
+2025-09-24,Red Velvet Cake,11,330000
+2025-09-25,Espresso,17,255000
+2025-09-25,Americano (Iced/Hot),17,306000
+2025-09-25,Cafe Latte,22,484000
+2025-09-25,Cappuccino,24,528000
+2025-09-25,Matcha Latte (Iced),12,300000
+2025-09-25,Caramel Macchiato,13,364000
+2025-09-25,Butter Croissant,11,220000
+2025-09-25,Red Velvet Cake,5,150000
+2025-09-26,Espresso,29,435000
+2025-09-26,Americano (Iced/Hot),21,378000
+2025-09-26,Cafe Latte,29,638000
+2025-09-26,Cappuccino,28,616000
+2025-09-26,Matcha Latte (Iced),5,125000
+2025-09-26,Caramel Macchiato,10,280000
+2025-09-26,Butter Croissant,25,500000
+2025-09-26,Red Velvet Cake,10,300000
+2025-09-27,Espresso,27,405000
+2025-09-27,Americano (Iced/Hot),27,486000
+2025-09-27,Cafe Latte,30,660000
+2025-09-27,Cappuccino,40,880000
+2025-09-27,Matcha Latte (Iced),32,800000
+2025-09-27,Caramel Macchiato,41,1148000
+2025-09-27,Butter Croissant,40,800000
+2025-09-27,Red Velvet Cake,24,720000
+2025-09-28,Espresso,12,180000
+2025-09-28,Americano (Iced/Hot),11,198000
+2025-09-28,Cafe Latte,36,792000
+2025-09-28,Cappuccino,38,836000
+2025-09-28,Matcha Latte (Iced),46,1150000
+2025-09-28,Caramel Macchiato,35,980000
+2025-09-28,Butter Croissant,30,600000
+2025-09-28,Red Velvet Cake,20,600000
+2025-09-29,Espresso,28,420000
+2025-09-29,Americano (Iced/Hot),2,36000
+2025-09-29,Cafe Latte,37,814000
+2025-09-29,Cappuccino,39,858000
+2025-09-29,Matcha Latte (Iced),10,250000
+2025-09-29,Caramel Macchiato,10,280000
+2025-09-29,Butter Croissant,26,520000
+2025-09-29,Red Velvet Cake,35,1050000
+2025-09-30,Espresso,24,360000
+2025-09-30,Americano (Iced/Hot),5,90000
+2025-09-30,Cafe Latte,30,660000
+2025-09-30,Cappuccino,18,396000
+2025-09-30,Matcha Latte (Iced),4,100000
+2025-09-30,Caramel Macchiato,24,672000
+2025-09-30,Butter Croissant,36,720000
+2025-09-30,Red Velvet Cake,32,960000
+2025-10-01,Espresso,12,180000
+2025-10-01,Americano (Iced/Hot),4,72000
+2025-10-01,Cafe Latte,33,726000
+2025-10-01,Cappuccino,13,286000
+2025-10-01,Matcha Latte (Iced),5,125000
+2025-10-01,Caramel Macchiato,12,336000
+2025-10-01,Butter Croissant,33,660000
+2025-10-01,Red Velvet Cake,27,810000
+2025-10-02,Espresso,37,555000
+2025-10-02,Americano (Iced/Hot),9,162000
+2025-10-02,Cafe Latte,25,550000
+2025-10-02,Cappuccino,30,660000
+2025-10-02,Matcha Latte (Iced),6,150000
+2025-10-02,Caramel Macchiato,27,756000
+2025-10-02,Butter Croissant,9,180000
+2025-10-02,Red Velvet Cake,13,390000
+2025-10-03,Espresso,9,135000
+2025-10-03,Americano (Iced/Hot),19,342000
+2025-10-03,Cafe Latte,29,638000
+2025-10-03,Cappuccino,6,132000
+2025-10-03,Matcha Latte (Iced),14,350000
+2025-10-03,Caramel Macchiato,28,784000
+2025-10-03,Butter Croissant,22,440000
+2025-10-03,Red Velvet Cake,17,510000
+2025-10-04,Espresso,66,990000
+2025-10-04,Americano (Iced/Hot),3,54000
+2025-10-04,Cafe Latte,61,1342000
+2025-10-04,Cappuccino,12,264000
+2025-10-04,Matcha Latte (Iced),14,350000
+2025-10-04,Caramel Macchiato,45,1260000
+2025-10-04,Butter Croissant,42,840000
+2025-10-04,Red Velvet Cake,31,930000
+2025-10-05,Espresso,46,690000
+2025-10-05,Americano (Iced/Hot),41,738000
+2025-10-05,Cafe Latte,33,726000
+2025-10-05,Cappuccino,27,594000
+2025-10-05,Matcha Latte (Iced),8,200000
+2025-10-05,Caramel Macchiato,9,252000
+2025-10-05,Butter Croissant,20,400000
+2025-10-05,Red Velvet Cake,11,330000
+2025-10-06,Espresso,37,555000
+2025-10-06,Americano (Iced/Hot),8,144000
+2025-10-06,Cafe Latte,40,880000
+2025-10-06,Cappuccino,15,330000
+2025-10-06,Matcha Latte (Iced),8,200000
+2025-10-06,Caramel Macchiato,13,364000
+2025-10-06,Butter Croissant,11,220000
+2025-10-06,Red Velvet Cake,13,390000
+2025-10-07,Espresso,27,405000
+2025-10-07,Americano (Iced/Hot),9,162000
+2025-10-07,Cafe Latte,25,550000
+2025-10-07,Cappuccino,9,198000
+2025-10-07,Matcha Latte (Iced),14,350000
+2025-10-07,Caramel Macchiato,14,392000
+2025-10-07,Butter Croissant,23,460000
+2025-10-07,Red Velvet Cake,21,630000
+2025-10-08,Espresso,19,285000
+2025-10-08,Americano (Iced/Hot),7,126000
+2025-10-08,Cafe Latte,7,154000
+2025-10-08,Cappuccino,34,748000
+2025-10-08,Matcha Latte (Iced),6,150000
+2025-10-08,Caramel Macchiato,25,700000
+2025-10-08,Butter Croissant,10,200000
+2025-10-08,Red Velvet Cake,6,180000
+2025-10-09,Espresso,6,90000
+2025-10-09,Americano (Iced/Hot),12,216000
+2025-10-09,Cafe Latte,11,242000
+2025-10-09,Cappuccino,6,132000
+2025-10-09,Matcha Latte (Iced),26,650000
+2025-10-09,Caramel Macchiato,26,728000
+2025-10-09,Butter Croissant,7,140000
+2025-10-09,Red Velvet Cake,22,660000
+2025-10-10,Espresso,26,390000
+2025-10-10,Americano (Iced/Hot),16,288000
+2025-10-10,Cafe Latte,9,198000
+2025-10-10,Cappuccino,29,638000
+2025-10-10,Matcha Latte (Iced),21,525000
+2025-10-10,Caramel Macchiato,20,560000
+2025-10-10,Butter Croissant,19,380000
+2025-10-10,Red Velvet Cake,27,810000
+2025-10-11,Espresso,40,600000
+2025-10-11,Americano (Iced/Hot),28,504000
+2025-10-11,Cafe Latte,9,198000
+2025-10-11,Cappuccino,24,528000
+2025-10-11,Matcha Latte (Iced),36,900000
+2025-10-11,Caramel Macchiato,17,476000
+2025-10-11,Butter Croissant,16,320000
+2025-10-11,Red Velvet Cake,9,270000
+2025-10-12,Espresso,13,195000
+2025-10-12,Americano (Iced/Hot),14,252000
+2025-10-12,Cafe Latte,45,990000
+2025-10-12,Cappuccino,54,1188000
+2025-10-12,Matcha Latte (Iced),3,75000
+2025-10-12,Caramel Macchiato,57,1596000
+2025-10-12,Butter Croissant,59,1180000
+2025-10-12,Red Velvet Cake,20,600000
+2025-10-13,Espresso,19,285000
+2025-10-13,Americano (Iced/Hot),27,486000
+2025-10-13,Cafe Latte,14,308000
+2025-10-13,Cappuccino,23,506000
+2025-10-13,Matcha Latte (Iced),21,525000
+2025-10-13,Caramel Macchiato,9,252000
+2025-10-13,Butter Croissant,8,160000
+2025-10-13,Red Velvet Cake,14,420000
+2025-10-14,Espresso,14,210000
+2025-10-14,Americano (Iced/Hot),21,378000
+2025-10-14,Cafe Latte,24,528000
+2025-10-14,Cappuccino,28,616000
+2025-10-14,Matcha Latte (Iced),9,225000
+2025-10-14,Caramel Macchiato,6,168000
+2025-10-14,Butter Croissant,10,200000
+2025-10-14,Red Velvet Cake,25,750000
+2025-10-15,Espresso,22,330000
+2025-10-15,Americano (Iced/Hot),6,108000
+2025-10-15,Cafe Latte,30,660000
+2025-10-15,Cappuccino,22,484000
+2025-10-15,Matcha Latte (Iced),9,225000
+2025-10-15,Caramel Macchiato,28,784000
+2025-10-15,Butter Croissant,37,740000
+2025-10-15,Red Velvet Cake,35,1050000
+2025-10-16,Espresso,22,330000
+2025-10-16,Americano (Iced/Hot),10,180000
+2025-10-16,Cafe Latte,30,660000
+2025-10-16,Cappuccino,18,396000
+2025-10-16,Matcha Latte (Iced),3,75000
+2025-10-16,Caramel Macchiato,18,504000
+2025-10-16,Butter Croissant,10,200000
+2025-10-16,Red Velvet Cake,36,1080000
+2025-10-17,Espresso,7,105000
+2025-10-17,Americano (Iced/Hot),22,396000
+2025-10-17,Cafe Latte,23,506000
+2025-10-17,Cappuccino,23,506000
+2025-10-17,Matcha Latte (Iced),25,625000
+2025-10-17,Caramel Macchiato,9,252000
+2025-10-17,Butter Croissant,22,440000
+2025-10-17,Red Velvet Cake,14,420000
+2025-10-18,Espresso,60,900000
+2025-10-18,Americano (Iced/Hot),6,108000
+2025-10-18,Cafe Latte,12,264000
+2025-10-18,Cappuccino,21,462000
+2025-10-18,Matcha Latte (Iced),8,200000
+2025-10-18,Caramel Macchiato,37,1036000
+2025-10-18,Butter Croissant,36,720000
+2025-10-18,Red Velvet Cake,11,330000
+2025-10-19,Espresso,40,600000
+2025-10-19,Americano (Iced/Hot),8,144000
+2025-10-19,Cafe Latte,69,1518000
+2025-10-19,Cappuccino,45,990000
+2025-10-19,Matcha Latte (Iced),18,450000
+2025-10-19,Caramel Macchiato,61,1708000
+2025-10-19,Butter Croissant,39,780000
+2025-10-19,Red Velvet Cake,57,1710000
+2025-10-20,Espresso,20,300000
+2025-10-20,Americano (Iced/Hot),21,378000
+2025-10-20,Cafe Latte,8,176000
+2025-10-20,Cappuccino,5,110000
+2025-10-20,Matcha Latte (Iced),12,300000
+2025-10-20,Caramel Macchiato,21,588000
+2025-10-20,Butter Croissant,7,140000
+2025-10-20,Red Velvet Cake,24,720000
+2025-10-21,Espresso,42,630000
+2025-10-21,Americano (Iced/Hot),10,180000
+2025-10-21,Cafe Latte,27,594000
+2025-10-21,Cappuccino,40,880000
+2025-10-21,Matcha Latte (Iced),7,175000
+2025-10-21,Caramel Macchiato,42,1176000
+2025-10-21,Butter Croissant,7,140000
+2025-10-21,Red Velvet Cake,22,660000
+2025-10-22,Espresso,42,630000
+2025-10-22,Americano (Iced/Hot),9,162000
+2025-10-22,Cafe Latte,16,352000
+2025-10-22,Cappuccino,10,220000
+2025-10-22,Matcha Latte (Iced),7,175000
+2025-10-22,Caramel Macchiato,40,1120000
+2025-10-22,Butter Croissant,23,460000
+2025-10-22,Red Velvet Cake,19,570000
+2025-10-23,Espresso,17,255000
+2025-10-23,Americano (Iced/Hot),22,396000
+2025-10-23,Cafe Latte,10,220000
+2025-10-23,Cappuccino,7,154000
+2025-10-23,Matcha Latte (Iced),23,575000
+2025-10-23,Caramel Macchiato,19,532000
+2025-10-23,Butter Croissant,29,580000
+2025-10-23,Red Velvet Cake,27,810000
+2025-10-24,Espresso,21,315000
+2025-10-24,Americano (Iced/Hot),4,72000
+2025-10-24,Cafe Latte,43,946000
+2025-10-24,Cappuccino,31,682000
+2025-10-24,Matcha Latte (Iced),4,100000
+2025-10-24,Caramel Macchiato,39,1092000
+2025-10-24,Butter Croissant,20,400000
+2025-10-24,Red Velvet Cake,37,1110000
+2025-10-25,Espresso,38,570000
+2025-10-25,Americano (Iced/Hot),46,828000
+2025-10-25,Cafe Latte,12,264000
+2025-10-25,Cappuccino,22,484000
+2025-10-25,Matcha Latte (Iced),11,275000
+2025-10-25,Caramel Macchiato,20,560000
+2025-10-25,Butter Croissant,27,540000
+2025-10-25,Red Velvet Cake,35,1050000
+2025-10-26,Espresso,45,675000
+2025-10-26,Americano (Iced/Hot),16,288000
+2025-10-26,Cafe Latte,13,286000
+2025-10-26,Cappuccino,45,990000
+2025-10-26,Matcha Latte (Iced),7,175000
+2025-10-26,Caramel Macchiato,28,784000
+2025-10-26,Butter Croissant,42,840000
+2025-10-26,Red Velvet Cake,32,960000
+2025-10-27,Espresso,19,285000
+2025-10-27,Americano (Iced/Hot),3,54000
+2025-10-27,Cafe Latte,15,330000
+2025-10-27,Cappuccino,36,792000
+2025-10-27,Matcha Latte (Iced),2,50000
+2025-10-27,Caramel Macchiato,42,1176000
+2025-10-27,Butter Croissant,22,440000
+2025-10-27,Red Velvet Cake,13,390000
+2025-10-28,Espresso,5,75000
+2025-10-28,Americano (Iced/Hot),25,450000
+2025-10-28,Cafe Latte,26,572000
+2025-10-28,Cappuccino,25,550000
+2025-10-28,Matcha Latte (Iced),10,250000
+2025-10-28,Caramel Macchiato,10,280000
+2025-10-28,Butter Croissant,27,540000
+2025-10-28,Red Velvet Cake,20,600000
+2025-10-29,Espresso,22,330000
+2025-10-29,Americano (Iced/Hot),11,198000
+2025-10-29,Cafe Latte,40,880000
+2025-10-29,Cappuccino,19,418000
+2025-10-29,Matcha Latte (Iced),10,250000
+2025-10-29,Caramel Macchiato,10,280000
+2025-10-29,Butter Croissant,29,580000
+2025-10-29,Red Velvet Cake,15,450000
+2025-10-30,Espresso,28,420000
+2025-10-30,Americano (Iced/Hot),10,180000
+2025-10-30,Cafe Latte,6,132000
+2025-10-30,Cappuccino,24,528000
+2025-10-30,Matcha Latte (Iced),15,375000
+2025-10-30,Caramel Macchiato,8,224000
+2025-10-30,Butter Croissant,19,380000
+2025-10-30,Red Velvet Cake,10,300000
+2025-10-31,Espresso,28,420000
+2025-10-31,Americano (Iced/Hot),10,180000
+2025-10-31,Cafe Latte,23,506000
+2025-10-31,Cappuccino,29,638000
+2025-10-31,Matcha Latte (Iced),6,150000
+2025-10-31,Caramel Macchiato,19,532000
+2025-10-31,Butter Croissant,15,300000
+2025-10-31,Red Velvet Cake,12,360000
+2025-11-01,Espresso,27,405000
+2025-11-01,Americano (Iced/Hot),25,450000
+2025-11-01,Cafe Latte,14,308000
+2025-11-01,Cappuccino,16,352000
+2025-11-01,Matcha Latte (Iced),41,1025000
+2025-11-01,Caramel Macchiato,12,336000
+2025-11-01,Butter Croissant,36,720000
+2025-11-01,Red Velvet Cake,38,1140000
+2025-11-02,Espresso,33,495000
+2025-11-02,Americano (Iced/Hot),25,450000
+2025-11-02,Cafe Latte,30,660000
+2025-11-02,Cappuccino,8,176000
+2025-11-02,Matcha Latte (Iced),28,700000
+2025-11-02,Caramel Macchiato,16,448000
+2025-11-02,Butter Croissant,14,280000
+2025-11-02,Red Velvet Cake,24,720000
+2025-11-03,Espresso,17,255000
+2025-11-03,Americano (Iced/Hot),15,270000
+2025-11-03,Cafe Latte,7,154000
+2025-11-03,Cappuccino,5,110000
+2025-11-03,Matcha Latte (Iced),10,250000
+2025-11-03,Caramel Macchiato,22,616000
+2025-11-03,Butter Croissant,28,560000
+2025-11-03,Red Velvet Cake,14,420000
+2025-11-04,Espresso,14,210000
+2025-11-04,Americano (Iced/Hot),16,288000
+2025-11-04,Cafe Latte,6,132000
+2025-11-04,Cappuccino,17,374000
+2025-11-04,Matcha Latte (Iced),12,300000
+2025-11-04,Caramel Macchiato,6,168000
+2025-11-04,Butter Croissant,24,480000
+2025-11-04,Red Velvet Cake,5,150000
+2025-11-05,Espresso,19,285000
+2025-11-05,Americano (Iced/Hot),8,144000
+2025-11-05,Cafe Latte,19,418000
+2025-11-05,Cappuccino,22,484000
+2025-11-05,Matcha Latte (Iced),7,175000
+2025-11-05,Caramel Macchiato,42,1176000
+2025-11-05,Butter Croissant,13,260000
+2025-11-05,Red Velvet Cake,35,1050000
+2025-11-06,Espresso,21,315000
+2025-11-06,Americano (Iced/Hot),9,162000
+2025-11-06,Cafe Latte,16,352000
+2025-11-06,Cappuccino,22,484000
+2025-11-06,Matcha Latte (Iced),18,450000
+2025-11-06,Caramel Macchiato,25,700000
+2025-11-06,Butter Croissant,28,560000
+2025-11-06,Red Velvet Cake,15,450000
+2025-11-07,Espresso,16,240000
+2025-11-07,Americano (Iced/Hot),7,126000
+2025-11-07,Cafe Latte,7,154000
+2025-11-07,Cappuccino,5,110000
+2025-11-07,Matcha Latte (Iced),12,300000
+2025-11-07,Caramel Macchiato,26,728000
+2025-11-07,Butter Croissant,12,240000
+2025-11-07,Red Velvet Cake,15,450000
+2025-11-08,Espresso,28,420000
+2025-11-08,Americano (Iced/Hot),11,198000
+2025-11-08,Cafe Latte,40,880000
+2025-11-08,Cappuccino,14,308000
+2025-11-08,Matcha Latte (Iced),14,350000
+2025-11-08,Caramel Macchiato,36,1008000
+2025-11-08,Butter Croissant,28,560000
+2025-11-08,Red Velvet Cake,12,360000
+2025-11-09,Espresso,33,495000
+2025-11-09,Americano (Iced/Hot),18,324000
+2025-11-09,Cafe Latte,52,1144000
+2025-11-09,Cappuccino,28,616000
+2025-11-09,Matcha Latte (Iced),7,175000
+2025-11-09,Caramel Macchiato,25,700000
+2025-11-09,Butter Croissant,24,480000
+2025-11-09,Red Velvet Cake,36,1080000
+2025-11-10,Espresso,10,150000
+2025-11-10,Americano (Iced/Hot),5,90000
+2025-11-10,Cafe Latte,27,594000
+2025-11-10,Cappuccino,19,418000
+2025-11-10,Matcha Latte (Iced),5,125000
+2025-11-10,Caramel Macchiato,29,812000
+2025-11-10,Butter Croissant,21,420000
+2025-11-10,Red Velvet Cake,5,150000
+2025-11-11,Espresso,9,135000
+2025-11-11,Americano (Iced/Hot),7,126000
+2025-11-11,Cafe Latte,37,814000
+2025-11-11,Cappuccino,18,396000
+2025-11-11,Matcha Latte (Iced),4,100000
+2025-11-11,Caramel Macchiato,34,952000
+2025-11-11,Butter Croissant,14,280000
+2025-11-11,Red Velvet Cake,29,870000
+2025-11-12,Espresso,7,105000
+2025-11-12,Americano (Iced/Hot),11,198000
+2025-11-12,Cafe Latte,23,506000
+2025-11-12,Cappuccino,12,264000
+2025-11-12,Matcha Latte (Iced),14,350000
+2025-11-12,Caramel Macchiato,24,672000
+2025-11-12,Butter Croissant,19,380000
+2025-11-12,Red Velvet Cake,19,570000
+2025-11-13,Espresso,24,360000
+2025-11-13,Americano (Iced/Hot),11,198000
+2025-11-13,Cafe Latte,8,176000
+2025-11-13,Cappuccino,10,220000
+2025-11-13,Matcha Latte (Iced),29,725000
+2025-11-13,Caramel Macchiato,5,140000
+2025-11-13,Butter Croissant,9,180000
+2025-11-13,Red Velvet Cake,27,810000
+2025-11-14,Espresso,12,180000
+2025-11-14,Americano (Iced/Hot),10,180000
+2025-11-14,Cafe Latte,9,198000
+2025-11-14,Cappuccino,21,462000
+2025-11-14,Matcha Latte (Iced),3,75000
+2025-11-14,Caramel Macchiato,21,588000
+2025-11-14,Butter Croissant,6,120000
+2025-11-14,Red Velvet Cake,33,990000
+2025-11-15,Espresso,30,450000
+2025-11-15,Americano (Iced/Hot),12,216000
+2025-11-15,Cafe Latte,27,594000
+2025-11-15,Cappuccino,44,968000
+2025-11-15,Matcha Latte (Iced),38,950000
+2025-11-15,Caramel Macchiato,44,1232000
+2025-11-15,Butter Croissant,30,600000
+2025-11-15,Red Velvet Cake,19,570000
+2025-11-16,Espresso,45,675000
+2025-11-16,Americano (Iced/Hot),4,72000
+2025-11-16,Cafe Latte,37,814000
+2025-11-16,Cappuccino,40,880000
+2025-11-16,Matcha Latte (Iced),3,75000
+2025-11-16,Caramel Macchiato,54,1512000
+2025-11-16,Butter Croissant,46,920000
+2025-11-16,Red Velvet Cake,15,450000
+2025-11-17,Espresso,15,225000
+2025-11-17,Americano (Iced/Hot),9,162000
+2025-11-17,Cafe Latte,24,528000
+2025-11-17,Cappuccino,15,330000
+2025-11-17,Matcha Latte (Iced),14,350000
+2025-11-17,Caramel Macchiato,12,336000
+2025-11-17,Butter Croissant,10,200000
+2025-11-17,Red Velvet Cake,10,300000
+2025-11-18,Espresso,19,285000
+2025-11-18,Americano (Iced/Hot),18,324000
+2025-11-18,Cafe Latte,15,330000
+2025-11-18,Cappuccino,16,352000
+2025-11-18,Matcha Latte (Iced),17,425000
+2025-11-18,Caramel Macchiato,12,336000
+2025-11-18,Butter Croissant,22,440000
+2025-11-18,Red Velvet Cake,29,870000
+2025-11-19,Espresso,18,270000
+2025-11-19,Americano (Iced/Hot),6,108000
+2025-11-19,Cafe Latte,24,528000
+2025-11-19,Cappuccino,24,528000
+2025-11-19,Matcha Latte (Iced),3,75000
+2025-11-19,Caramel Macchiato,30,840000
+2025-11-19,Butter Croissant,10,200000
+2025-11-19,Red Velvet Cake,11,330000
+2025-11-20,Espresso,12,180000
+2025-11-20,Americano (Iced/Hot),14,252000
+2025-11-20,Cafe Latte,21,462000
+2025-11-20,Cappuccino,13,286000
+2025-11-20,Matcha Latte (Iced),26,650000
+2025-11-20,Caramel Macchiato,23,644000
+2025-11-20,Butter Croissant,18,360000
+2025-11-20,Red Velvet Cake,12,360000
+2025-11-21,Espresso,15,225000
+2025-11-21,Americano (Iced/Hot),27,486000
+2025-11-21,Cafe Latte,5,110000
+2025-11-21,Cappuccino,18,396000
+2025-11-21,Matcha Latte (Iced),9,225000
+2025-11-21,Caramel Macchiato,25,700000
+2025-11-21,Butter Croissant,18,360000
+2025-11-21,Red Velvet Cake,8,240000
+2025-11-22,Espresso,69,1035000
+2025-11-22,Americano (Iced/Hot),3,54000
+2025-11-22,Cafe Latte,61,1342000
+2025-11-22,Cappuccino,64,1408000
+2025-11-22,Matcha Latte (Iced),14,350000
+2025-11-22,Caramel Macchiato,28,784000
+2025-11-22,Butter Croissant,39,780000
+2025-11-22,Red Velvet Cake,52,1560000
+2025-11-23,Espresso,60,900000
+2025-11-23,Americano (Iced/Hot),8,144000
+2025-11-23,Cafe Latte,33,726000
+2025-11-23,Cappuccino,57,1254000
+2025-11-23,Matcha Latte (Iced),18,450000
+2025-11-23,Caramel Macchiato,60,1680000
+2025-11-23,Butter Croissant,26,520000
+2025-11-23,Red Velvet Cake,14,420000
+2025-11-24,Espresso,43,645000
+2025-11-24,Americano (Iced/Hot),6,108000
+2025-11-24,Cafe Latte,15,330000
+2025-11-24,Cappuccino,9,198000
+2025-11-24,Matcha Latte (Iced),4,100000
+2025-11-24,Caramel Macchiato,33,924000
+2025-11-24,Butter Croissant,7,140000
+2025-11-24,Red Velvet Cake,27,810000
+2025-11-25,Espresso,16,240000
+2025-11-25,Americano (Iced/Hot),23,414000
+2025-11-25,Cafe Latte,26,572000
+2025-11-25,Cappuccino,28,616000
+2025-11-25,Matcha Latte (Iced),29,725000
+2025-11-25,Caramel Macchiato,11,308000
+2025-11-25,Butter Croissant,24,480000
+2025-11-25,Red Velvet Cake,10,300000
+2025-11-26,Espresso,7,105000
+2025-11-26,Americano (Iced/Hot),8,144000
+2025-11-26,Cafe Latte,22,484000
+2025-11-26,Cappuccino,39,858000
+2025-11-26,Matcha Latte (Iced),8,200000
+2025-11-26,Caramel Macchiato,37,1036000
+2025-11-26,Butter Croissant,27,540000
+2025-11-26,Red Velvet Cake,14,420000
+2025-11-27,Espresso,13,195000
+2025-11-27,Americano (Iced/Hot),21,378000
+2025-11-27,Cafe Latte,24,528000
+2025-11-27,Cappuccino,26,572000
+2025-11-27,Matcha Latte (Iced),26,650000
+2025-11-27,Caramel Macchiato,12,336000
+2025-11-27,Butter Croissant,21,420000
+2025-11-27,Red Velvet Cake,11,330000
+2025-11-28,Espresso,17,255000
+2025-11-28,Americano (Iced/Hot),27,486000
+2025-11-28,Cafe Latte,23,506000
+2025-11-28,Cappuccino,28,616000
+2025-11-28,Matcha Latte (Iced),23,575000
+2025-11-28,Caramel Macchiato,21,588000
+2025-11-28,Butter Croissant,17,340000
+2025-11-28,Red Velvet Cake,20,600000
+2025-11-29,Espresso,35,525000
+2025-11-29,Americano (Iced/Hot),8,144000
+2025-11-29,Cafe Latte,28,616000
+2025-11-29,Cappuccino,36,792000
+2025-11-29,Matcha Latte (Iced),30,750000
+2025-11-29,Caramel Macchiato,35,980000
+2025-11-29,Butter Croissant,9,180000
+2025-11-29,Red Velvet Cake,41,1230000
+2025-11-30,Espresso,35,525000
+2025-11-30,Americano (Iced/Hot),16,288000
+2025-11-30,Cafe Latte,36,792000
+2025-11-30,Cappuccino,12,264000
+2025-11-30,Matcha Latte (Iced),8,200000
+2025-11-30,Caramel Macchiato,19,532000
+2025-11-30,Butter Croissant,43,860000
+2025-11-30,Red Velvet Cake,17,510000
+2025-12-01,Espresso,14,210000
+2025-12-01,Americano (Iced/Hot),14,252000
+2025-12-01,Cafe Latte,23,506000
+2025-12-01,Cappuccino,18,396000
+2025-12-01,Matcha Latte (Iced),6,150000
+2025-12-01,Caramel Macchiato,5,140000
+2025-12-01,Butter Croissant,27,540000
+2025-12-01,Red Velvet Cake,27,810000
+2025-12-02,Espresso,33,495000
+2025-12-02,Americano (Iced/Hot),4,72000
+2025-12-02,Cafe Latte,18,396000
+2025-12-02,Cappuccino,7,154000
+2025-12-02,Matcha Latte (Iced),11,275000
+2025-12-02,Caramel Macchiato,40,1120000
+2025-12-02,Butter Croissant,9,180000
+2025-12-02,Red Velvet Cake,36,1080000
+2025-12-03,Espresso,18,270000
+2025-12-03,Americano (Iced/Hot),10,180000
+2025-12-03,Cafe Latte,43,946000
+2025-12-03,Cappuccino,28,616000
+2025-12-03,Matcha Latte (Iced),3,75000
+2025-12-03,Caramel Macchiato,10,280000
+2025-12-03,Butter Croissant,29,580000
+2025-12-03,Red Velvet Cake,6,180000
+2025-12-04,Espresso,12,180000
+2025-12-04,Americano (Iced/Hot),6,108000
+2025-12-04,Cafe Latte,7,154000
+2025-12-04,Cappuccino,28,616000
+2025-12-04,Matcha Latte (Iced),18,450000
+2025-12-04,Caramel Macchiato,28,784000
+2025-12-04,Butter Croissant,18,360000
+2025-12-04,Red Velvet Cake,15,450000
+2025-12-05,Espresso,24,360000
+2025-12-05,Americano (Iced/Hot),9,162000
+2025-12-05,Cafe Latte,26,572000
+2025-12-05,Cappuccino,25,550000
+2025-12-05,Matcha Latte (Iced),18,450000
+2025-12-05,Caramel Macchiato,27,756000
+2025-12-05,Butter Croissant,20,400000
+2025-12-05,Red Velvet Cake,22,660000
+2025-12-06,Espresso,25,375000
+2025-12-06,Americano (Iced/Hot),3,54000
+2025-12-06,Cafe Latte,64,1408000
+2025-12-06,Cappuccino,60,1320000
+2025-12-06,Matcha Latte (Iced),14,350000
+2025-12-06,Caramel Macchiato,48,1344000
+2025-12-06,Butter Croissant,46,920000
+2025-12-06,Red Velvet Cake,15,450000
+2025-12-07,Espresso,35,525000
+2025-12-07,Americano (Iced/Hot),9,162000
+2025-12-07,Cafe Latte,8,176000
+2025-12-07,Cappuccino,30,660000
+2025-12-07,Matcha Latte (Iced),14,350000
+2025-12-07,Caramel Macchiato,38,1064000
+2025-12-07,Butter Croissant,24,480000
+2025-12-07,Red Velvet Cake,22,660000
+2025-12-08,Espresso,7,105000
+2025-12-08,Americano (Iced/Hot),27,486000
+2025-12-08,Cafe Latte,27,594000
+2025-12-08,Cappuccino,16,352000
+2025-12-08,Matcha Latte (Iced),24,600000
+2025-12-08,Caramel Macchiato,9,252000
+2025-12-08,Butter Croissant,9,180000
+2025-12-08,Red Velvet Cake,10,300000
+2025-12-09,Espresso,13,195000
+2025-12-09,Americano (Iced/Hot),6,108000
+2025-12-09,Cafe Latte,25,550000
+2025-12-09,Cappuccino,16,352000
+2025-12-09,Matcha Latte (Iced),7,175000
+2025-12-09,Caramel Macchiato,24,672000
+2025-12-09,Butter Croissant,26,520000
+2025-12-09,Red Velvet Cake,16,480000
+2025-12-10,Espresso,21,315000
+2025-12-10,Americano (Iced/Hot),11,198000
+2025-12-10,Cafe Latte,27,594000
+2025-12-10,Cappuccino,40,880000
+2025-12-10,Matcha Latte (Iced),8,200000
+2025-12-10,Caramel Macchiato,33,924000
+2025-12-10,Butter Croissant,29,580000
+2025-12-10,Red Velvet Cake,27,810000
+2025-12-11,Espresso,18,270000
+2025-12-11,Americano (Iced/Hot),2,36000
+2025-12-11,Cafe Latte,25,550000
+2025-12-11,Cappuccino,43,946000
+2025-12-11,Matcha Latte (Iced),4,100000
+2025-12-11,Caramel Macchiato,19,532000
+2025-12-11,Butter Croissant,33,660000
+2025-12-11,Red Velvet Cake,33,990000
+2025-12-12,Espresso,8,120000
+2025-12-12,Americano (Iced/Hot),17,306000
+2025-12-12,Cafe Latte,6,132000
+2025-12-12,Cappuccino,27,594000
+2025-12-12,Matcha Latte (Iced),9,225000
+2025-12-12,Caramel Macchiato,15,420000
+2025-12-12,Butter Croissant,10,200000
+2025-12-12,Red Velvet Cake,22,660000
+2025-12-13,Espresso,22,330000
+2025-12-13,Americano (Iced/Hot),12,216000
+2025-12-13,Cafe Latte,20,440000
+2025-12-13,Cappuccino,16,352000
+2025-12-13,Matcha Latte (Iced),9,225000
+2025-12-13,Caramel Macchiato,33,924000
+2025-12-13,Butter Croissant,14,280000
+2025-12-13,Red Velvet Cake,46,1380000
+2025-12-14,Espresso,25,375000
+2025-12-14,Americano (Iced/Hot),43,774000
+2025-12-14,Cafe Latte,40,880000
+2025-12-14,Cappuccino,22,484000
+2025-12-14,Matcha Latte (Iced),41,1025000
+2025-12-14,Caramel Macchiato,40,1120000
+2025-12-14,Butter Croissant,46,920000
+2025-12-14,Red Velvet Cake,16,480000
+2025-12-15,Espresso,6,90000
+2025-12-15,Americano (Iced/Hot),16,288000
+2025-12-15,Cafe Latte,17,374000
+2025-12-15,Cappuccino,29,638000
+2025-12-15,Matcha Latte (Iced),25,625000
+2025-12-15,Caramel Macchiato,11,308000
+2025-12-15,Butter Croissant,14,280000
+2025-12-15,Red Velvet Cake,17,510000
+2025-12-16,Espresso,25,375000
+2025-12-16,Americano (Iced/Hot),18,324000
+2025-12-16,Cafe Latte,6,132000
+2025-12-16,Cappuccino,26,572000
+2025-12-16,Matcha Latte (Iced),15,375000
+2025-12-16,Caramel Macchiato,5,140000
+2025-12-16,Butter Croissant,23,460000
+2025-12-16,Red Velvet Cake,25,750000
+2025-12-17,Espresso,25,375000
+2025-12-17,Americano (Iced/Hot),15,270000
+2025-12-17,Cafe Latte,12,264000
+2025-12-17,Cappuccino,15,330000
+2025-12-17,Matcha Latte (Iced),8,200000
+2025-12-17,Caramel Macchiato,21,588000
+2025-12-17,Butter Croissant,11,220000
+2025-12-17,Red Velvet Cake,12,360000
+2025-12-18,Espresso,6,90000
+2025-12-18,Americano (Iced/Hot),27,486000
+2025-12-18,Cafe Latte,19,418000
+2025-12-18,Cappuccino,28,616000
+2025-12-18,Matcha Latte (Iced),26,650000
+2025-12-18,Caramel Macchiato,26,728000
+2025-12-18,Butter Croissant,9,180000
+2025-12-18,Red Velvet Cake,28,840000
+2025-12-19,Espresso,12,180000
+2025-12-19,Americano (Iced/Hot),7,126000
+2025-12-19,Cafe Latte,36,792000
+2025-12-19,Cappuccino,34,748000
+2025-12-19,Matcha Latte (Iced),2,50000
+2025-12-19,Caramel Macchiato,36,1008000
+2025-12-19,Butter Croissant,19,380000
+2025-12-19,Red Velvet Cake,27,810000
+2025-12-20,Espresso,27,405000
+2025-12-20,Americano (Iced/Hot),24,432000
+2025-12-20,Cafe Latte,9,198000
+2025-12-20,Cappuccino,20,440000
+2025-12-20,Matcha Latte (Iced),9,225000
+2025-12-20,Caramel Macchiato,40,1120000
+2025-12-20,Butter Croissant,20,400000
+2025-12-20,Red Velvet Cake,20,600000
+2025-12-21,Espresso,12,180000
+2025-12-21,Americano (Iced/Hot),18,324000
+2025-12-21,Cafe Latte,36,792000
+2025-12-21,Cappuccino,28,616000
+2025-12-21,Matcha Latte (Iced),8,200000
+2025-12-21,Caramel Macchiato,69,1932000
+2025-12-21,Butter Croissant,22,440000
+2025-12-21,Red Velvet Cake,14,420000
+2025-12-22,Espresso,9,135000
+2025-12-22,Americano (Iced/Hot),16,288000
+2025-12-22,Cafe Latte,16,352000
+2025-12-22,Cappuccino,23,506000
+2025-12-22,Matcha Latte (Iced),10,250000
+2025-12-22,Caramel Macchiato,6,168000
+2025-12-22,Butter Croissant,16,320000
+2025-12-22,Red Velvet Cake,23,690000
+2025-12-23,Espresso,31,465000
+2025-12-23,Americano (Iced/Hot),8,144000
+2025-12-23,Cafe Latte,21,462000
+2025-12-23,Cappuccino,43,946000
+2025-12-23,Matcha Latte (Iced),10,250000
+2025-12-23,Caramel Macchiato,31,868000
+2025-12-23,Butter Croissant,24,480000
+2025-12-23,Red Velvet Cake,20,600000
+2025-12-24,Espresso,28,420000
+2025-12-24,Americano (Iced/Hot),23,414000
+2025-12-24,Cafe Latte,12,264000
+2025-12-24,Cappuccino,25,550000
+2025-12-24,Matcha Latte (Iced),21,525000
+2025-12-24,Caramel Macchiato,27,756000
+2025-12-24,Butter Croissant,9,180000
+2025-12-24,Red Velvet Cake,26,780000
+2025-12-25,Espresso,12,180000
+2025-12-25,Americano (Iced/Hot),29,522000
+2025-12-25,Cafe Latte,22,484000
+2025-12-25,Cappuccino,29,638000
+2025-12-25,Matcha Latte (Iced),16,400000
+2025-12-25,Caramel Macchiato,19,532000
+2025-12-25,Butter Croissant,13,260000
+2025-12-25,Red Velvet Cake,17,510000
+2025-12-26,Espresso,14,210000
+2025-12-26,Americano (Iced/Hot),20,360000
+2025-12-26,Cafe Latte,11,242000
+2025-12-26,Cappuccino,21,462000
+2025-12-26,Matcha Latte (Iced),27,675000
+2025-12-26,Caramel Macchiato,25,700000
+2025-12-26,Butter Croissant,26,520000
+2025-12-26,Red Velvet Cake,11,330000
+2025-12-27,Espresso,60,900000
+2025-12-27,Americano (Iced/Hot),6,108000
+2025-12-27,Cafe Latte,30,660000
+2025-12-27,Cappuccino,54,1188000
+2025-12-27,Matcha Latte (Iced),12,300000
+2025-12-27,Caramel Macchiato,28,784000
+2025-12-27,Butter Croissant,45,900000
+2025-12-27,Red Velvet Cake,55,1650000
+2025-12-28,Espresso,38,570000
+2025-12-28,Americano (Iced/Hot),17,306000
+2025-12-28,Cafe Latte,11,242000
+2025-12-28,Cappuccino,35,770000
+2025-12-28,Matcha Latte (Iced),22,550000
+2025-12-28,Caramel Macchiato,17,476000
+2025-12-28,Butter Croissant,33,660000
+2025-12-28,Red Velvet Cake,28,840000
+2025-12-29,Espresso,7,105000
+2025-12-29,Americano (Iced/Hot),16,288000
+2025-12-29,Cafe Latte,17,374000
+2025-12-29,Cappuccino,6,132000
+2025-12-29,Matcha Latte (Iced),7,175000
+2025-12-29,Caramel Macchiato,9,252000
+2025-12-29,Butter Croissant,15,300000
+2025-12-29,Red Velvet Cake,12,360000
+2025-12-30,Espresso,27,405000
+2025-12-30,Americano (Iced/Hot),16,288000
+2025-12-30,Cafe Latte,11,242000
+2025-12-30,Cappuccino,19,418000
+2025-12-30,Matcha Latte (Iced),28,700000
+2025-12-30,Caramel Macchiato,21,588000
+2025-12-30,Butter Croissant,8,160000
+2025-12-30,Red Velvet Cake,26,780000
+2025-12-31,Espresso,33,495000
+2025-12-31,Americano (Iced/Hot),2,36000
+2025-12-31,Cafe Latte,30,660000
+2025-12-31,Cappuccino,25,550000
+2025-12-31,Matcha Latte (Iced),5,125000
+2025-12-31,Caramel Macchiato,24,672000
+2025-12-31,Butter Croissant,7,140000
+2025-12-31,Red Velvet Cake,35,1050000
+2026-01-01,Espresso,6,90000
+2026-01-01,Americano (Iced/Hot),27,486000
+2026-01-01,Cafe Latte,17,374000
+2026-01-01,Cappuccino,17,374000
+2026-01-01,Matcha Latte (Iced),22,550000
+2026-01-01,Caramel Macchiato,7,196000
+2026-01-01,Butter Croissant,11,220000
+2026-01-01,Red Velvet Cake,18,540000
+2026-01-02,Espresso,31,465000
+2026-01-02,Americano (Iced/Hot),10,180000
+2026-01-02,Cafe Latte,24,528000
+2026-01-02,Cappuccino,43,946000
+2026-01-02,Matcha Latte (Iced),8,200000
+2026-01-02,Caramel Macchiato,42,1176000
+2026-01-02,Butter Croissant,20,400000
+2026-01-02,Red Velvet Cake,24,720000
+2026-01-03,Espresso,69,1035000
+2026-01-03,Americano (Iced/Hot),6,108000
+2026-01-03,Cafe Latte,57,1254000
+2026-01-03,Cappuccino,21,462000
+2026-01-03,Matcha Latte (Iced),3,75000
+2026-01-03,Caramel Macchiato,49,1372000
+2026-01-03,Butter Croissant,14,280000
+2026-01-03,Red Velvet Cake,35,1050000
+2026-01-04,Espresso,52,780000
+2026-01-04,Americano (Iced/Hot),4,72000
+2026-01-04,Cafe Latte,52,1144000
+2026-01-04,Cappuccino,21,462000
+2026-01-04,Matcha Latte (Iced),18,450000
+2026-01-04,Caramel Macchiato,48,1344000
+2026-01-04,Butter Croissant,10,200000
+2026-01-04,Red Velvet Cake,52,1560000
+2026-01-05,Espresso,13,195000
+2026-01-05,Americano (Iced/Hot),19,342000
+2026-01-05,Cafe Latte,21,462000
+2026-01-05,Cappuccino,29,638000
+2026-01-05,Matcha Latte (Iced),28,700000
+2026-01-05,Caramel Macchiato,8,224000
+2026-01-05,Butter Croissant,16,320000
+2026-01-05,Red Velvet Cake,9,270000
+2026-01-06,Espresso,15,225000
+2026-01-06,Americano (Iced/Hot),10,180000
+2026-01-06,Cafe Latte,11,242000
+2026-01-06,Cappuccino,28,616000
+2026-01-06,Matcha Latte (Iced),18,450000
+2026-01-06,Caramel Macchiato,28,784000
+2026-01-06,Butter Croissant,15,300000
+2026-01-06,Red Velvet Cake,17,510000
+2026-01-07,Espresso,11,165000
+2026-01-07,Americano (Iced/Hot),24,432000
+2026-01-07,Cafe Latte,8,176000
+2026-01-07,Cappuccino,12,264000
+2026-01-07,Matcha Latte (Iced),24,600000
+2026-01-07,Caramel Macchiato,26,728000
+2026-01-07,Butter Croissant,25,500000
+2026-01-07,Red Velvet Cake,23,690000
+2026-01-08,Espresso,14,210000
+2026-01-08,Americano (Iced/Hot),15,270000
+2026-01-08,Cafe Latte,6,132000
+2026-01-08,Cappuccino,29,638000
+2026-01-08,Matcha Latte (Iced),13,325000
+2026-01-08,Caramel Macchiato,21,588000
+2026-01-08,Butter Croissant,7,140000
+2026-01-08,Red Velvet Cake,28,840000
+2026-01-09,Espresso,13,195000
+2026-01-09,Americano (Iced/Hot),10,180000
+2026-01-09,Cafe Latte,28,616000
+2026-01-09,Cappuccino,40,880000
+2026-01-09,Matcha Latte (Iced),8,200000
+2026-01-09,Caramel Macchiato,19,532000
+2026-01-09,Butter Croissant,9,180000
+2026-01-09,Red Velvet Cake,31,930000
+2026-01-10,Espresso,22,330000
+2026-01-10,Americano (Iced/Hot),11,198000
+2026-01-10,Cafe Latte,35,770000
+2026-01-10,Cappuccino,35,770000
+2026-01-10,Matcha Latte (Iced),33,825000
+2026-01-10,Caramel Macchiato,44,1232000
+2026-01-10,Butter Croissant,11,220000
+2026-01-10,Red Velvet Cake,11,330000
+2026-01-11,Espresso,66,990000
+2026-01-11,Americano (Iced/Hot),12,216000
+2026-01-11,Cafe Latte,69,1518000
+2026-01-11,Cappuccino,30,660000
+2026-01-11,Matcha Latte (Iced),4,100000
+2026-01-11,Caramel Macchiato,42,1176000
+2026-01-11,Butter Croissant,18,360000
+2026-01-11,Red Velvet Cake,11,330000
+2026-01-12,Espresso,28,420000
+2026-01-12,Americano (Iced/Hot),7,126000
+2026-01-12,Cafe Latte,13,286000
+2026-01-12,Cappuccino,7,154000
+2026-01-12,Matcha Latte (Iced),29,725000
+2026-01-12,Caramel Macchiato,6,168000
+2026-01-12,Butter Croissant,16,320000
+2026-01-12,Red Velvet Cake,14,420000
+2026-01-13,Espresso,12,180000
+2026-01-13,Americano (Iced/Hot),29,522000
+2026-01-13,Cafe Latte,9,198000
+2026-01-13,Cappuccino,15,330000
+2026-01-13,Matcha Latte (Iced),6,150000
+2026-01-13,Caramel Macchiato,28,784000
+2026-01-13,Butter Croissant,19,380000
+2026-01-13,Red Velvet Cake,10,300000
+2026-01-14,Espresso,13,195000
+2026-01-14,Americano (Iced/Hot),8,144000
+2026-01-14,Cafe Latte,33,726000
+2026-01-14,Cappuccino,15,330000
+2026-01-14,Matcha Latte (Iced),3,75000
+2026-01-14,Caramel Macchiato,30,840000
+2026-01-14,Butter Croissant,22,440000
+2026-01-14,Red Velvet Cake,11,330000
+2026-01-15,Espresso,22,330000
+2026-01-15,Americano (Iced/Hot),12,216000
+2026-01-15,Cafe Latte,17,374000
+2026-01-15,Cappuccino,23,506000
+2026-01-15,Matcha Latte (Iced),7,175000
+2026-01-15,Caramel Macchiato,28,784000
+2026-01-15,Butter Croissant,12,240000
+2026-01-15,Red Velvet Cake,6,180000
+2026-01-16,Espresso,17,255000
+2026-01-16,Americano (Iced/Hot),17,306000
+2026-01-16,Cafe Latte,5,110000
+2026-01-16,Cappuccino,10,220000
+2026-01-16,Matcha Latte (Iced),28,700000
+2026-01-16,Caramel Macchiato,23,644000
+2026-01-16,Butter Croissant,20,400000
+2026-01-16,Red Velvet Cake,12,360000
+2026-01-17,Espresso,48,720000
+2026-01-17,Americano (Iced/Hot),8,144000
+2026-01-17,Cafe Latte,40,880000
+2026-01-17,Cappuccino,36,792000
+2026-01-17,Matcha Latte (Iced),10,250000
+2026-01-17,Caramel Macchiato,69,1932000
+2026-01-17,Butter Croissant,52,1040000
+2026-01-17,Red Velvet Cake,28,840000
+2026-01-18,Espresso,24,360000
+2026-01-18,Americano (Iced/Hot),6,108000
+2026-01-18,Cafe Latte,21,462000
+2026-01-18,Cappuccino,36,792000
+2026-01-18,Matcha Latte (Iced),10,250000
+2026-01-18,Caramel Macchiato,69,1932000
+2026-01-18,Butter Croissant,46,920000
+2026-01-18,Red Velvet Cake,55,1650000
+2026-01-19,Espresso,22,330000
+2026-01-19,Americano (Iced/Hot),10,180000
+2026-01-19,Cafe Latte,16,352000
+2026-01-19,Cappuccino,33,726000
+2026-01-19,Matcha Latte (Iced),3,75000
+2026-01-19,Caramel Macchiato,9,252000
+2026-01-19,Butter Croissant,23,460000
+2026-01-19,Red Velvet Cake,22,660000
+2026-01-20,Espresso,11,165000
+2026-01-20,Americano (Iced/Hot),6,108000
+2026-01-20,Cafe Latte,17,374000
+2026-01-20,Cappuccino,18,396000
+2026-01-20,Matcha Latte (Iced),21,525000
+2026-01-20,Caramel Macchiato,13,364000
+2026-01-20,Butter Croissant,21,420000
+2026-01-20,Red Velvet Cake,12,360000
+2026-01-21,Espresso,42,630000
+2026-01-21,Americano (Iced/Hot),6,108000
+2026-01-21,Cafe Latte,10,220000
+2026-01-21,Cappuccino,30,660000
+2026-01-21,Matcha Latte (Iced),4,100000
+2026-01-21,Caramel Macchiato,34,952000
+2026-01-21,Butter Croissant,14,280000
+2026-01-21,Red Velvet Cake,18,540000
+2026-01-22,Espresso,6,90000
+2026-01-22,Americano (Iced/Hot),19,342000
+2026-01-22,Cafe Latte,9,198000
+2026-01-22,Cappuccino,26,572000
+2026-01-22,Matcha Latte (Iced),8,200000
+2026-01-22,Caramel Macchiato,24,672000
+2026-01-22,Butter Croissant,8,160000
+2026-01-22,Red Velvet Cake,22,660000
+2026-01-23,Espresso,21,315000
+2026-01-23,Americano (Iced/Hot),16,288000
+2026-01-23,Cafe Latte,26,572000
+2026-01-23,Cappuccino,21,462000
+2026-01-23,Matcha Latte (Iced),14,350000
+2026-01-23,Caramel Macchiato,26,728000
+2026-01-23,Butter Croissant,5,100000
+2026-01-23,Red Velvet Cake,26,780000
+2026-01-24,Espresso,35,525000
+2026-01-24,Americano (Iced/Hot),35,630000
+2026-01-24,Cafe Latte,28,616000
+2026-01-24,Cappuccino,30,660000
+2026-01-24,Matcha Latte (Iced),25,625000
+2026-01-24,Caramel Macchiato,12,336000
+2026-01-24,Butter Croissant,11,220000
+2026-01-24,Red Velvet Cake,38,1140000
+2026-01-25,Espresso,17,255000
+2026-01-25,Americano (Iced/Hot),24,432000
+2026-01-25,Cafe Latte,8,176000
+2026-01-25,Cappuccino,16,352000
+2026-01-25,Matcha Latte (Iced),30,750000
+2026-01-25,Caramel Macchiato,30,840000
+2026-01-25,Butter Croissant,36,720000
+2026-01-25,Red Velvet Cake,24,720000
+2026-01-26,Espresso,6,90000
+2026-01-26,Americano (Iced/Hot),18,324000
+2026-01-26,Cafe Latte,6,132000
+2026-01-26,Cappuccino,8,176000
+2026-01-26,Matcha Latte (Iced),21,525000
+2026-01-26,Caramel Macchiato,7,196000
+2026-01-26,Butter Croissant,17,340000
+2026-01-26,Red Velvet Cake,13,390000
+2026-01-27,Espresso,40,600000
+2026-01-27,Americano (Iced/Hot),6,108000
+2026-01-27,Cafe Latte,36,792000
+2026-01-27,Cappuccino,9,198000
+2026-01-27,Matcha Latte (Iced),7,175000
+2026-01-27,Caramel Macchiato,27,756000
+2026-01-27,Butter Croissant,31,620000
+2026-01-27,Red Velvet Cake,33,990000
+2026-01-28,Espresso,10,150000
+2026-01-28,Americano (Iced/Hot),8,144000
+2026-01-28,Cafe Latte,24,528000
+2026-01-28,Cappuccino,42,924000
+2026-01-28,Matcha Latte (Iced),10,250000
+2026-01-28,Caramel Macchiato,28,784000
+2026-01-28,Butter Croissant,26,520000
+2026-01-28,Red Velvet Cake,11,330000
+2026-01-29,Espresso,10,150000
+2026-01-29,Americano (Iced/Hot),23,414000
+2026-01-29,Cafe Latte,29,638000
+2026-01-29,Cappuccino,9,198000
+2026-01-29,Matcha Latte (Iced),7,175000
+2026-01-29,Caramel Macchiato,5,140000
+2026-01-29,Butter Croissant,10,200000
+2026-01-29,Red Velvet Cake,19,570000
+2026-01-30,Espresso,7,105000
+2026-01-30,Americano (Iced/Hot),21,378000
+2026-01-30,Cafe Latte,29,638000
+2026-01-30,Cappuccino,28,616000
+2026-01-30,Matcha Latte (Iced),16,400000
+2026-01-30,Caramel Macchiato,22,616000
+2026-01-30,Butter Croissant,19,380000
+2026-01-30,Red Velvet Cake,16,480000
+2026-01-31,Espresso,19,285000
+2026-01-31,Americano (Iced/Hot),28,504000
+2026-01-31,Cafe Latte,46,1012000
+2026-01-31,Cappuccino,33,726000
+2026-01-31,Matcha Latte (Iced),40,1000000
+2026-01-31,Caramel Macchiato,19,532000
+2026-01-31,Butter Croissant,30,600000
+2026-01-31,Red Velvet Cake,28,840000
+2026-02-01,Espresso,17,255000
+2026-02-01,Americano (Iced/Hot),11,198000
+2026-02-01,Cafe Latte,25,550000
+2026-02-01,Cappuccino,40,880000
+2026-02-01,Matcha Latte (Iced),44,1100000
+2026-02-01,Caramel Macchiato,11,308000
+2026-02-01,Butter Croissant,38,760000
+2026-02-01,Red Velvet Cake,28,840000
+2026-02-02,Espresso,18,270000
+2026-02-02,Americano (Iced/Hot),11,198000
+2026-02-02,Cafe Latte,21,462000
+2026-02-02,Cappuccino,16,352000
+2026-02-02,Matcha Latte (Iced),24,600000
+2026-02-02,Caramel Macchiato,8,224000
+2026-02-02,Butter Croissant,13,260000
+2026-02-02,Red Velvet Cake,10,300000
+2026-02-03,Espresso,39,585000
+2026-02-03,Americano (Iced/Hot),10,180000
+2026-02-03,Cafe Latte,37,814000
+2026-02-03,Cappuccino,37,814000
+2026-02-03,Matcha Latte (Iced),2,50000
+2026-02-03,Caramel Macchiato,42,1176000
+2026-02-03,Butter Croissant,15,300000
+2026-02-03,Red Velvet Cake,19,570000
+2026-02-04,Espresso,21,315000
+2026-02-04,Americano (Iced/Hot),12,216000
+2026-02-04,Cafe Latte,25,550000
+2026-02-04,Cappuccino,22,484000
+2026-02-04,Matcha Latte (Iced),22,550000
+2026-02-04,Caramel Macchiato,18,504000
+2026-02-04,Butter Croissant,19,380000
+2026-02-04,Red Velvet Cake,10,300000
+2026-02-05,Espresso,25,375000
+2026-02-05,Americano (Iced/Hot),11,198000
+2026-02-05,Cafe Latte,7,154000
+2026-02-05,Cappuccino,15,330000
+2026-02-05,Matcha Latte (Iced),5,125000
+2026-02-05,Caramel Macchiato,18,504000
+2026-02-05,Butter Croissant,19,380000
+2026-02-05,Red Velvet Cake,33,990000
+2026-02-06,Espresso,13,195000
+2026-02-06,Americano (Iced/Hot),21,378000
+2026-02-06,Cafe Latte,16,352000
+2026-02-06,Cappuccino,29,638000
+2026-02-06,Matcha Latte (Iced),18,450000
+2026-02-06,Caramel Macchiato,19,532000
+2026-02-06,Butter Croissant,20,400000
+2026-02-06,Red Velvet Cake,26,780000
+2026-02-07,Espresso,38,570000
+2026-02-07,Americano (Iced/Hot),8,144000
+2026-02-07,Cafe Latte,22,484000
+2026-02-07,Cappuccino,19,418000
+2026-02-07,Matcha Latte (Iced),35,875000
+2026-02-07,Caramel Macchiato,8,224000
+2026-02-07,Butter Croissant,9,180000
+2026-02-07,Red Velvet Cake,8,240000
+2026-02-08,Espresso,40,600000
+2026-02-08,Americano (Iced/Hot),3,54000
+2026-02-08,Cafe Latte,40,880000
+2026-02-08,Cappuccino,57,1254000
+2026-02-08,Matcha Latte (Iced),16,400000
+2026-02-08,Caramel Macchiato,25,700000
+2026-02-08,Butter Croissant,11,220000
+2026-02-08,Red Velvet Cake,20,600000
+2026-02-09,Espresso,18,270000
+2026-02-09,Americano (Iced/Hot),22,396000
+2026-02-09,Cafe Latte,19,418000
+2026-02-09,Cappuccino,6,132000
+2026-02-09,Matcha Latte (Iced),14,350000
+2026-02-09,Caramel Macchiato,27,756000
+2026-02-09,Butter Croissant,16,320000
+2026-02-09,Red Velvet Cake,21,630000
+2026-02-10,Espresso,7,105000
+2026-02-10,Americano (Iced/Hot),10,180000
+2026-02-10,Cafe Latte,13,286000
+2026-02-10,Cappuccino,10,220000
+2026-02-10,Matcha Latte (Iced),13,325000
+2026-02-10,Caramel Macchiato,11,308000
+2026-02-10,Butter Croissant,13,260000
+2026-02-10,Red Velvet Cake,22,660000
+2026-02-11,Espresso,12,180000
+2026-02-11,Americano (Iced/Hot),22,396000
+2026-02-11,Cafe Latte,24,528000
+2026-02-11,Cappuccino,19,418000
+2026-02-11,Matcha Latte (Iced),11,275000
+2026-02-11,Caramel Macchiato,15,420000
+2026-02-11,Butter Croissant,24,480000
+2026-02-11,Red Velvet Cake,20,600000
+2026-02-12,Espresso,26,390000
+2026-02-12,Americano (Iced/Hot),7,126000
+2026-02-12,Cafe Latte,13,286000
+2026-02-12,Cappuccino,14,308000
+2026-02-12,Matcha Latte (Iced),18,450000
+2026-02-12,Caramel Macchiato,15,420000
+2026-02-12,Butter Croissant,22,440000
+2026-02-12,Red Velvet Cake,26,780000
+2026-02-13,Espresso,16,240000
+2026-02-13,Americano (Iced/Hot),17,306000
+2026-02-13,Cafe Latte,29,638000
+2026-02-13,Cappuccino,17,374000
+2026-02-13,Matcha Latte (Iced),23,575000
+2026-02-13,Caramel Macchiato,23,644000
+2026-02-13,Butter Croissant,27,540000
+2026-02-13,Red Velvet Cake,18,540000
+2026-02-14,Espresso,28,420000
+2026-02-14,Americano (Iced/Hot),17,306000
+2026-02-14,Cafe Latte,60,1320000
+2026-02-14,Cappuccino,64,1408000
+2026-02-14,Matcha Latte (Iced),14,350000
+2026-02-14,Caramel Macchiato,37,1036000
+2026-02-14,Butter Croissant,45,900000
+2026-02-14,Red Velvet Cake,20,600000
+2026-02-15,Espresso,41,615000
+2026-02-15,Americano (Iced/Hot),14,252000
+2026-02-15,Cafe Latte,44,968000
+2026-02-15,Cappuccino,20,440000
+2026-02-15,Matcha Latte (Iced),11,275000
+2026-02-15,Caramel Macchiato,22,616000
+2026-02-15,Butter Croissant,36,720000
+2026-02-15,Red Velvet Cake,11,330000
+2026-02-16,Espresso,39,585000
+2026-02-16,Americano (Iced/Hot),7,126000
+2026-02-16,Cafe Latte,7,154000
+2026-02-16,Cappuccino,16,352000
+2026-02-16,Matcha Latte (Iced),6,150000
+2026-02-16,Caramel Macchiato,31,868000
+2026-02-16,Butter Croissant,32,640000
+2026-02-16,Red Velvet Cake,36,1080000
+2026-02-17,Espresso,8,120000
+2026-02-17,Americano (Iced/Hot),16,288000
+2026-02-17,Cafe Latte,24,528000
+2026-02-17,Cappuccino,28,616000
+2026-02-17,Matcha Latte (Iced),22,550000
+2026-02-17,Caramel Macchiato,21,588000
+2026-02-17,Butter Croissant,23,460000
+2026-02-17,Red Velvet Cake,13,390000
+2026-02-18,Espresso,25,375000
+2026-02-18,Americano (Iced/Hot),6,108000
+2026-02-18,Cafe Latte,8,176000
+2026-02-18,Cappuccino,6,132000
+2026-02-18,Matcha Latte (Iced),19,475000
+2026-02-18,Caramel Macchiato,6,168000
+2026-02-18,Butter Croissant,8,160000
+2026-02-18,Red Velvet Cake,10,300000
+2026-02-19,Espresso,23,345000
+2026-02-19,Americano (Iced/Hot),23,414000
+2026-02-19,Cafe Latte,26,572000
+2026-02-19,Cappuccino,16,352000
+2026-02-19,Matcha Latte (Iced),7,175000
+2026-02-19,Caramel Macchiato,17,476000
+2026-02-19,Butter Croissant,22,440000
+2026-02-19,Red Velvet Cake,12,360000
+2026-02-20,Espresso,5,75000
+2026-02-20,Americano (Iced/Hot),7,126000
+2026-02-20,Cafe Latte,12,264000
+2026-02-20,Cappuccino,8,176000
+2026-02-20,Matcha Latte (Iced),20,500000
+2026-02-20,Caramel Macchiato,27,756000
+2026-02-20,Butter Croissant,14,280000
+2026-02-20,Red Velvet Cake,16,480000
+2026-02-21,Espresso,13,195000
+2026-02-21,Americano (Iced/Hot),17,306000
+2026-02-21,Cafe Latte,21,462000
+2026-02-21,Cappuccino,21,462000
+2026-02-21,Matcha Latte (Iced),6,150000
+2026-02-21,Caramel Macchiato,40,1120000
+2026-02-21,Butter Croissant,26,520000
+2026-02-21,Red Velvet Cake,53,1590000
+2026-02-22,Espresso,30,450000
+2026-02-22,Americano (Iced/Hot),28,504000
+2026-02-22,Cafe Latte,44,968000
+2026-02-22,Cappuccino,17,374000
+2026-02-22,Matcha Latte (Iced),46,1150000
+2026-02-22,Caramel Macchiato,38,1064000
+2026-02-22,Butter Croissant,9,180000
+2026-02-22,Red Velvet Cake,17,510000
+2026-02-23,Espresso,43,645000
+2026-02-23,Americano (Iced/Hot),11,198000
+2026-02-23,Cafe Latte,9,198000
+2026-02-23,Cappuccino,10,220000
+2026-02-23,Matcha Latte (Iced),3,75000
+2026-02-23,Caramel Macchiato,13,364000
+2026-02-23,Butter Croissant,6,120000
+2026-02-23,Red Velvet Cake,15,450000
+2026-02-24,Espresso,8,120000
+2026-02-24,Americano (Iced/Hot),17,306000
+2026-02-24,Cafe Latte,27,594000
+2026-02-24,Cappuccino,19,418000
+2026-02-24,Matcha Latte (Iced),15,375000
+2026-02-24,Caramel Macchiato,14,392000
+2026-02-24,Butter Croissant,7,140000
+2026-02-24,Red Velvet Cake,26,780000
+2026-02-25,Espresso,21,315000
+2026-02-25,Americano (Iced/Hot),5,90000
+2026-02-25,Cafe Latte,24,528000
+2026-02-25,Cappuccino,19,418000
+2026-02-25,Matcha Latte (Iced),2,50000
+2026-02-25,Caramel Macchiato,13,364000
+2026-02-25,Butter Croissant,31,620000
+2026-02-25,Red Velvet Cake,15,450000
+2026-02-26,Espresso,5,75000
+2026-02-26,Americano (Iced/Hot),29,522000
+2026-02-26,Cafe Latte,26,572000
+2026-02-26,Cappuccino,24,528000
+2026-02-26,Matcha Latte (Iced),29,725000
+2026-02-26,Caramel Macchiato,15,420000
+2026-02-26,Butter Croissant,9,180000
+2026-02-26,Red Velvet Cake,19,570000
+2026-02-27,Espresso,9,135000
+2026-02-27,Americano (Iced/Hot),21,378000
+2026-02-27,Cafe Latte,21,462000
+2026-02-27,Cappuccino,28,616000
+2026-02-27,Matcha Latte (Iced),16,400000
+2026-02-27,Caramel Macchiato,28,784000
+2026-02-27,Butter Croissant,19,380000
+2026-02-27,Red Velvet Cake,19,570000
+2026-02-28,Espresso,38,570000
+2026-02-28,Americano (Iced/Hot),35,630000
+2026-02-28,Cafe Latte,28,616000
+2026-02-28,Cappuccino,9,198000
+2026-02-28,Matcha Latte (Iced),20,500000
+2026-02-28,Caramel Macchiato,14,392000
+2026-02-28,Butter Croissant,38,760000
+2026-02-28,Red Velvet Cake,8,240000
+2026-03-01,Espresso,24,360000
+2026-03-01,Americano (Iced/Hot),5,90000
+2026-03-01,Cafe Latte,60,1320000
+2026-03-01,Cappuccino,21,462000
+2026-03-01,Matcha Latte (Iced),3,75000
+2026-03-01,Caramel Macchiato,49,1372000
+2026-03-01,Butter Croissant,46,920000
+2026-03-01,Red Velvet Cake,36,1080000
+2026-03-02,Espresso,24,360000
+2026-03-02,Americano (Iced/Hot),25,450000
+2026-03-02,Cafe Latte,22,484000
+2026-03-02,Cappuccino,28,616000
+2026-03-02,Matcha Latte (Iced),15,375000
+2026-03-02,Caramel Macchiato,6,168000
+2026-03-02,Butter Croissant,29,580000
+2026-03-02,Red Velvet Cake,22,660000
+2026-03-03,Espresso,11,165000
+2026-03-03,Americano (Iced/Hot),28,504000
+2026-03-03,Cafe Latte,19,418000
+2026-03-03,Cappuccino,15,330000
+2026-03-03,Matcha Latte (Iced),22,550000
+2026-03-03,Caramel Macchiato,27,756000
+2026-03-03,Butter Croissant,16,320000
+2026-03-03,Red Velvet Cake,10,300000
+2026-03-04,Espresso,25,375000
+2026-03-04,Americano (Iced/Hot),9,162000
+2026-03-04,Cafe Latte,30,660000
+2026-03-04,Cappuccino,33,726000
+2026-03-04,Matcha Latte (Iced),5,125000
+2026-03-04,Caramel Macchiato,40,1120000
+2026-03-04,Butter Croissant,15,300000
+2026-03-04,Red Velvet Cake,28,840000
+2026-03-05,Espresso,40,600000
+2026-03-05,Americano (Iced/Hot),4,72000
+2026-03-05,Cafe Latte,15,330000
+2026-03-05,Cappuccino,13,286000
+2026-03-05,Matcha Latte (Iced),7,175000
+2026-03-05,Caramel Macchiato,39,1092000
+2026-03-05,Butter Croissant,24,480000
+2026-03-05,Red Velvet Cake,7,210000
+2026-03-06,Espresso,27,405000
+2026-03-06,Americano (Iced/Hot),15,270000
+2026-03-06,Cafe Latte,14,308000
+2026-03-06,Cappuccino,22,484000
+2026-03-06,Matcha Latte (Iced),22,550000
+2026-03-06,Caramel Macchiato,21,588000
+2026-03-06,Butter Croissant,12,240000
+2026-03-06,Red Velvet Cake,19,570000
+2026-03-07,Espresso,25,375000
+2026-03-07,Americano (Iced/Hot),19,342000
+2026-03-07,Cafe Latte,46,1012000
+2026-03-07,Cappuccino,28,616000
+2026-03-07,Matcha Latte (Iced),12,300000
+2026-03-07,Caramel Macchiato,8,224000
+2026-03-07,Butter Croissant,8,160000
+2026-03-07,Red Velvet Cake,36,1080000
+2026-03-08,Espresso,28,420000
+2026-03-08,Americano (Iced/Hot),40,720000
+2026-03-08,Cafe Latte,32,704000
+2026-03-08,Cappuccino,14,308000
+2026-03-08,Matcha Latte (Iced),20,500000
+2026-03-08,Caramel Macchiato,9,252000
+2026-03-08,Butter Croissant,35,700000
+2026-03-08,Red Velvet Cake,16,480000
+2026-03-09,Espresso,7,105000
+2026-03-09,Americano (Iced/Hot),5,90000
+2026-03-09,Cafe Latte,43,946000
+2026-03-09,Cappuccino,30,660000
+2026-03-09,Matcha Latte (Iced),6,150000
+2026-03-09,Caramel Macchiato,19,532000
+2026-03-09,Butter Croissant,32,640000
+2026-03-09,Red Velvet Cake,22,660000
+2026-03-10,Espresso,22,330000
+2026-03-10,Americano (Iced/Hot),3,54000
+2026-03-10,Cafe Latte,9,198000
+2026-03-10,Cappuccino,15,330000
+2026-03-10,Matcha Latte (Iced),7,175000
+2026-03-10,Caramel Macchiato,12,336000
+2026-03-10,Butter Croissant,13,260000
+2026-03-10,Red Velvet Cake,29,870000
+2026-03-11,Espresso,22,330000
+2026-03-11,Americano (Iced/Hot),17,306000
+2026-03-11,Cafe Latte,13,286000
+2026-03-11,Cappuccino,27,594000
+2026-03-11,Matcha Latte (Iced),23,575000
+2026-03-11,Caramel Macchiato,17,476000
+2026-03-11,Butter Croissant,15,300000
+2026-03-11,Red Velvet Cake,5,150000
+2026-03-12,Espresso,39,585000
+2026-03-12,Americano (Iced/Hot),4,72000
+2026-03-12,Cafe Latte,43,946000
+2026-03-12,Cappuccino,37,814000
+2026-03-12,Matcha Latte (Iced),7,175000
+2026-03-12,Caramel Macchiato,7,196000
+2026-03-12,Butter Croissant,20,400000
+2026-03-12,Red Velvet Cake,14,420000
+2026-03-13,Espresso,23,345000
+2026-03-13,Americano (Iced/Hot),29,522000
+2026-03-13,Cafe Latte,5,110000
+2026-03-13,Cappuccino,21,462000
+2026-03-13,Matcha Latte (Iced),21,525000
+2026-03-13,Caramel Macchiato,7,196000
+2026-03-13,Butter Croissant,16,320000
+2026-03-13,Red Velvet Cake,10,300000
+2026-03-14,Espresso,16,240000
+2026-03-14,Americano (Iced/Hot),7,126000
+2026-03-14,Cafe Latte,42,924000
+2026-03-14,Cappuccino,42,924000
+2026-03-14,Matcha Latte (Iced),8,200000
+2026-03-14,Caramel Macchiato,13,364000
+2026-03-14,Butter Croissant,36,720000
+2026-03-14,Red Velvet Cake,26,780000
+2026-03-15,Espresso,28,420000
+2026-03-15,Americano (Iced/Hot),12,216000
+2026-03-15,Cafe Latte,13,286000
+2026-03-15,Cappuccino,24,528000
+2026-03-15,Matcha Latte (Iced),16,400000
+2026-03-15,Caramel Macchiato,69,1932000
+2026-03-15,Butter Croissant,32,640000
+2026-03-15,Red Velvet Cake,18,540000
+2026-03-16,Espresso,13,195000
+2026-03-16,Americano (Iced/Hot),7,126000
+2026-03-16,Cafe Latte,24,528000
+2026-03-16,Cappuccino,12,264000
+2026-03-16,Matcha Latte (Iced),7,175000
+2026-03-16,Caramel Macchiato,22,616000
+2026-03-16,Butter Croissant,26,520000
+2026-03-16,Red Velvet Cake,35,1050000
+2026-03-17,Espresso,22,330000
+2026-03-17,Americano (Iced/Hot),16,288000
+2026-03-17,Cafe Latte,15,330000
+2026-03-17,Cappuccino,17,374000
+2026-03-17,Matcha Latte (Iced),25,625000
+2026-03-17,Caramel Macchiato,27,756000
+2026-03-17,Butter Croissant,15,300000
+2026-03-17,Red Velvet Cake,27,810000
+2026-03-18,Espresso,25,375000
+2026-03-18,Americano (Iced/Hot),19,342000
+2026-03-18,Cafe Latte,29,638000
+2026-03-18,Cappuccino,8,176000
+2026-03-18,Matcha Latte (Iced),15,375000
+2026-03-18,Caramel Macchiato,23,644000
+2026-03-18,Butter Croissant,19,380000
+2026-03-18,Red Velvet Cake,8,240000
+2026-03-19,Espresso,26,390000
+2026-03-19,Americano (Iced/Hot),23,414000
+2026-03-19,Cafe Latte,6,132000
+2026-03-19,Cappuccino,18,396000
+2026-03-19,Matcha Latte (Iced),8,200000
+2026-03-19,Caramel Macchiato,20,560000
+2026-03-19,Butter Croissant,25,500000
+2026-03-19,Red Velvet Cake,24,720000
+2026-03-20,Espresso,19,285000
+2026-03-20,Americano (Iced/Hot),7,126000
+2026-03-20,Cafe Latte,12,264000
+2026-03-20,Cappuccino,20,440000
+2026-03-20,Matcha Latte (Iced),14,350000
+2026-03-20,Caramel Macchiato,8,224000
+2026-03-20,Butter Croissant,22,440000
+2026-03-20,Red Velvet Cake,6,180000
+2026-03-21,Espresso,18,270000
+2026-03-21,Americano (Iced/Hot),18,324000
+2026-03-21,Cafe Latte,36,792000
+2026-03-21,Cappuccino,25,550000
+2026-03-21,Matcha Latte (Iced),10,250000
+2026-03-21,Caramel Macchiato,33,924000
+2026-03-21,Butter Croissant,22,440000
+2026-03-21,Red Velvet Cake,35,1050000
+2026-03-22,Espresso,66,990000
+2026-03-22,Americano (Iced/Hot),13,234000
+2026-03-22,Cafe Latte,33,726000
+2026-03-22,Cappuccino,33,726000
+2026-03-22,Matcha Latte (Iced),17,425000
+2026-03-22,Caramel Macchiato,18,504000
+2026-03-22,Butter Croissant,49,980000
+2026-03-22,Red Velvet Cake,15,450000
+2026-03-23,Espresso,39,585000
+2026-03-23,Americano (Iced/Hot),2,36000
+2026-03-23,Cafe Latte,24,528000
+2026-03-23,Cappuccino,42,924000
+2026-03-23,Matcha Latte (Iced),6,150000
+2026-03-23,Caramel Macchiato,21,588000
+2026-03-23,Butter Croissant,24,480000
+2026-03-23,Red Velvet Cake,22,660000
+2026-03-24,Espresso,26,390000
+2026-03-24,Americano (Iced/Hot),25,450000
+2026-03-24,Cafe Latte,26,572000
+2026-03-24,Cappuccino,13,286000
+2026-03-24,Matcha Latte (Iced),13,325000
+2026-03-24,Caramel Macchiato,19,532000
+2026-03-24,Butter Croissant,14,280000
+2026-03-24,Red Velvet Cake,28,840000
+2026-03-25,Espresso,14,210000
+2026-03-25,Americano (Iced/Hot),12,216000
+2026-03-25,Cafe Latte,28,616000
+2026-03-25,Cappuccino,20,440000
+2026-03-25,Matcha Latte (Iced),21,525000
+2026-03-25,Caramel Macchiato,9,252000
+2026-03-25,Butter Croissant,8,160000
+2026-03-25,Red Velvet Cake,22,660000
+2026-03-26,Espresso,8,120000
+2026-03-26,Americano (Iced/Hot),11,198000
+2026-03-26,Cafe Latte,14,308000
+2026-03-26,Cappuccino,29,638000
+2026-03-26,Matcha Latte (Iced),22,550000
+2026-03-26,Caramel Macchiato,23,644000
+2026-03-26,Butter Croissant,8,160000
+2026-03-26,Red Velvet Cake,14,420000
+2026-03-27,Espresso,22,330000
+2026-03-27,Americano (Iced/Hot),9,162000
+2026-03-27,Cafe Latte,19,418000
+2026-03-27,Cappuccino,21,462000
+2026-03-27,Matcha Latte (Iced),7,175000
+2026-03-27,Caramel Macchiato,16,448000
+2026-03-27,Butter Croissant,6,120000
+2026-03-27,Red Velvet Cake,5,150000
+2026-03-28,Espresso,49,735000
+2026-03-28,Americano (Iced/Hot),16,288000
+2026-03-28,Cafe Latte,48,1056000
+2026-03-28,Cappuccino,21,462000
+2026-03-28,Matcha Latte (Iced),12,300000
+2026-03-28,Caramel Macchiato,16,448000
+2026-03-28,Butter Croissant,22,440000
+2026-03-28,Red Velvet Cake,31,930000
+2026-03-29,Espresso,42,630000
+2026-03-29,Americano (Iced/Hot),10,180000
+2026-03-29,Cafe Latte,69,1518000
+2026-03-29,Cappuccino,69,1518000
+2026-03-29,Matcha Latte (Iced),3,75000
+2026-03-29,Caramel Macchiato,16,448000
+2026-03-29,Butter Croissant,22,440000
+2026-03-29,Red Velvet Cake,52,1560000
+2026-03-30,Espresso,14,210000
+2026-03-30,Americano (Iced/Hot),26,468000
+2026-03-30,Cafe Latte,11,242000
+2026-03-30,Cappuccino,13,286000
+2026-03-30,Matcha Latte (Iced),21,525000
+2026-03-30,Caramel Macchiato,15,420000
+2026-03-30,Butter Croissant,11,220000
+2026-03-30,Red Velvet Cake,28,840000
+2026-03-31,Espresso,34,510000
+2026-03-31,Americano (Iced/Hot),3,54000
+2026-03-31,Cafe Latte,15,330000
+2026-03-31,Cappuccino,21,462000
+2026-03-31,Matcha Latte (Iced),4,100000
+2026-03-31,Caramel Macchiato,25,700000
+2026-03-31,Butter Croissant,23,460000
+2026-03-31,Red Velvet Cake,10,300000
+2026-04-01,Espresso,7,105000
+2026-04-01,Americano (Iced/Hot),3,54000
+2026-04-01,Cafe Latte,10,220000
+2026-04-01,Cappuccino,19,418000
+2026-04-01,Matcha Latte (Iced),4,100000
+2026-04-01,Caramel Macchiato,7,196000
+2026-04-01,Butter Croissant,13,260000
+2026-04-01,Red Velvet Cake,16,480000
+2026-04-02,Espresso,17,255000
+2026-04-02,Americano (Iced/Hot),21,378000
+2026-04-02,Cafe Latte,6,132000
+2026-04-02,Cappuccino,9,198000
+2026-04-02,Matcha Latte (Iced),16,400000
+2026-04-02,Caramel Macchiato,25,700000
+2026-04-02,Butter Croissant,12,240000
+2026-04-02,Red Velvet Cake,10,300000
+2026-04-03,Espresso,7,105000
+2026-04-03,Americano (Iced/Hot),26,468000
+2026-04-03,Cafe Latte,16,352000
+2026-04-03,Cappuccino,7,154000
+2026-04-03,Matcha Latte (Iced),26,650000
+2026-04-03,Caramel Macchiato,10,280000
+2026-04-03,Butter Croissant,6,120000
+2026-04-03,Red Velvet Cake,27,810000
+2026-04-04,Espresso,24,360000
+2026-04-04,Americano (Iced/Hot),13,234000
+2026-04-04,Cafe Latte,16,352000
+2026-04-04,Cappuccino,13,286000
+2026-04-04,Matcha Latte (Iced),17,425000
+2026-04-04,Caramel Macchiato,57,1596000
+2026-04-04,Butter Croissant,24,480000
+2026-04-04,Red Velvet Cake,53,1590000
+2026-04-05,Espresso,12,180000
+2026-04-05,Americano (Iced/Hot),14,252000
+2026-04-05,Cafe Latte,27,594000
+2026-04-05,Cappuccino,30,660000
+2026-04-05,Matcha Latte (Iced),46,1150000
+2026-04-05,Caramel Macchiato,43,1204000
+2026-04-05,Butter Croissant,32,640000
+2026-04-05,Red Velvet Cake,22,660000
+2026-04-06,Espresso,43,645000
+2026-04-06,Americano (Iced/Hot),10,180000
+2026-04-06,Cafe Latte,30,660000
+2026-04-06,Cappuccino,24,528000
+2026-04-06,Matcha Latte (Iced),8,200000
+2026-04-06,Caramel Macchiato,30,840000
+2026-04-06,Butter Croissant,20,400000
+2026-04-06,Red Velvet Cake,15,450000
+2026-04-07,Espresso,20,300000
+2026-04-07,Americano (Iced/Hot),17,306000
+2026-04-07,Cafe Latte,27,594000
+2026-04-07,Cappuccino,23,506000
+2026-04-07,Matcha Latte (Iced),12,300000
+2026-04-07,Caramel Macchiato,26,728000
+2026-04-07,Butter Croissant,9,180000
+2026-04-07,Red Velvet Cake,24,720000
+2026-04-08,Espresso,16,240000
+2026-04-08,Americano (Iced/Hot),5,90000
+2026-04-08,Cafe Latte,29,638000
+2026-04-08,Cappuccino,25,550000
+2026-04-08,Matcha Latte (Iced),24,600000
+2026-04-08,Caramel Macchiato,10,280000
+2026-04-08,Butter Croissant,26,520000
+2026-04-08,Red Velvet Cake,22,660000
+2026-04-09,Espresso,5,75000
+2026-04-09,Americano (Iced/Hot),25,450000
+2026-04-09,Cafe Latte,20,440000
+2026-04-09,Cappuccino,16,352000
+2026-04-09,Matcha Latte (Iced),10,250000
+2026-04-09,Caramel Macchiato,24,672000
+2026-04-09,Butter Croissant,6,120000
+2026-04-09,Red Velvet Cake,18,540000
+2026-04-10,Espresso,40,600000
+2026-04-10,Americano (Iced/Hot),8,144000
+2026-04-10,Cafe Latte,25,550000
+2026-04-10,Cappuccino,9,198000
+2026-04-10,Matcha Latte (Iced),5,125000
+2026-04-10,Caramel Macchiato,37,1036000
+2026-04-10,Butter Croissant,7,140000
+2026-04-10,Red Velvet Cake,37,1110000
+2026-04-11,Espresso,24,360000
+2026-04-11,Americano (Iced/Hot),11,198000
+2026-04-11,Cafe Latte,38,836000
+2026-04-11,Cappuccino,43,946000
+2026-04-11,Matcha Latte (Iced),12,300000
+2026-04-11,Caramel Macchiato,35,980000
+2026-04-11,Butter Croissant,43,860000
+2026-04-11,Red Velvet Cake,16,480000
+2026-04-12,Espresso,24,360000
+2026-04-12,Americano (Iced/Hot),30,540000
+2026-04-12,Cafe Latte,41,902000
+2026-04-12,Cappuccino,14,308000
+2026-04-12,Matcha Latte (Iced),38,950000
+2026-04-12,Caramel Macchiato,22,616000
+2026-04-12,Butter Croissant,25,500000
+2026-04-12,Red Velvet Cake,30,900000
+2026-04-13,Espresso,15,225000
+2026-04-13,Americano (Iced/Hot),8,144000
+2026-04-13,Cafe Latte,25,550000
+2026-04-13,Cappuccino,10,220000
+2026-04-13,Matcha Latte (Iced),11,275000
+2026-04-13,Caramel Macchiato,21,588000
+2026-04-13,Butter Croissant,23,460000
+2026-04-13,Red Velvet Cake,13,390000
+2026-04-14,Espresso,16,240000
+2026-04-14,Americano (Iced/Hot),9,162000
+2026-04-14,Cafe Latte,27,594000
+2026-04-14,Cappuccino,19,418000
+2026-04-14,Matcha Latte (Iced),7,175000
+2026-04-14,Caramel Macchiato,37,1036000
+2026-04-14,Butter Croissant,9,180000
+2026-04-14,Red Velvet Cake,7,210000
+2026-04-15,Espresso,10,150000
+2026-04-15,Americano (Iced/Hot),8,144000
+2026-04-15,Cafe Latte,27,594000
+2026-04-15,Cappuccino,36,792000
+2026-04-15,Matcha Latte (Iced),8,200000
+2026-04-15,Caramel Macchiato,21,588000
+2026-04-15,Butter Croissant,37,740000
+2026-04-15,Red Velvet Cake,7,210000
+2026-04-16,Espresso,39,585000
+2026-04-16,Americano (Iced/Hot),2,36000
+2026-04-16,Cafe Latte,12,264000
+2026-04-16,Cappuccino,27,594000
+2026-04-16,Matcha Latte (Iced),2,50000
+2026-04-16,Caramel Macchiato,27,756000
+2026-04-16,Butter Croissant,26,520000
+2026-04-16,Red Velvet Cake,33,990000
+2026-04-17,Espresso,24,360000
+2026-04-17,Americano (Iced/Hot),7,126000
+2026-04-17,Cafe Latte,7,154000
+2026-04-17,Cappuccino,13,286000
+2026-04-17,Matcha Latte (Iced),10,250000
+2026-04-17,Caramel Macchiato,29,812000
+2026-04-17,Butter Croissant,17,340000
+2026-04-17,Red Velvet Cake,25,750000
+2026-04-18,Espresso,60,900000
+2026-04-18,Americano (Iced/Hot),3,54000
+2026-04-18,Cafe Latte,18,396000
+2026-04-18,Cappuccino,69,1518000
+2026-04-18,Matcha Latte (Iced),12,300000
+2026-04-18,Caramel Macchiato,18,504000
+2026-04-18,Butter Croissant,35,700000
+2026-04-18,Red Velvet Cake,32,960000
+2026-04-19,Espresso,27,405000
+2026-04-19,Americano (Iced/Hot),28,504000
+2026-04-19,Cafe Latte,38,836000
+2026-04-19,Cappuccino,35,770000
+2026-04-19,Matcha Latte (Iced),16,400000
+2026-04-19,Caramel Macchiato,24,672000
+2026-04-19,Butter Croissant,9,180000
+2026-04-19,Red Velvet Cake,43,1290000
+2026-04-20,Espresso,34,510000
+2026-04-20,Americano (Iced/Hot),3,54000
+2026-04-20,Cafe Latte,34,748000
+2026-04-20,Cappuccino,9,198000
+2026-04-20,Matcha Latte (Iced),5,125000
+2026-04-20,Caramel Macchiato,43,1204000
+2026-04-20,Butter Croissant,7,140000
+2026-04-20,Red Velvet Cake,19,570000
+2026-04-21,Espresso,28,420000
+2026-04-21,Americano (Iced/Hot),19,342000
+2026-04-21,Cafe Latte,13,286000
+2026-04-21,Cappuccino,27,594000
+2026-04-21,Matcha Latte (Iced),23,575000
+2026-04-21,Caramel Macchiato,13,364000
+2026-04-21,Butter Croissant,7,140000
+2026-04-21,Red Velvet Cake,25,750000
+2026-04-22,Espresso,27,405000
+2026-04-22,Americano (Iced/Hot),9,162000
+2026-04-22,Cafe Latte,16,352000
+2026-04-22,Cappuccino,30,660000
+2026-04-22,Matcha Latte (Iced),8,200000
+2026-04-22,Caramel Macchiato,7,196000
+2026-04-22,Butter Croissant,10,200000
+2026-04-22,Red Velvet Cake,10,300000
+2026-04-23,Espresso,21,315000
+2026-04-23,Americano (Iced/Hot),9,162000
+2026-04-23,Cafe Latte,11,242000
+2026-04-23,Cappuccino,24,528000
+2026-04-23,Matcha Latte (Iced),24,600000
+2026-04-23,Caramel Macchiato,8,224000
+2026-04-23,Butter Croissant,10,200000
+2026-04-23,Red Velvet Cake,11,330000
+2026-04-24,Espresso,9,135000
+2026-04-24,Americano (Iced/Hot),24,432000
+2026-04-24,Cafe Latte,7,154000
+2026-04-24,Cappuccino,11,242000
+2026-04-24,Matcha Latte (Iced),26,650000
+2026-04-24,Caramel Macchiato,18,504000
+2026-04-24,Butter Croissant,11,220000
+2026-04-24,Red Velvet Cake,9,270000
+2026-04-25,Espresso,21,315000
+2026-04-25,Americano (Iced/Hot),17,306000
+2026-04-25,Cafe Latte,13,286000
+2026-04-25,Cappuccino,60,1320000
+2026-04-25,Matcha Latte (Iced),16,400000
+2026-04-25,Caramel Macchiato,24,672000
+2026-04-25,Butter Croissant,39,780000
+2026-04-25,Red Velvet Cake,52,1560000
+2026-04-26,Espresso,44,660000
+2026-04-26,Americano (Iced/Hot),17,306000
+2026-04-26,Cafe Latte,14,308000
+2026-04-26,Cappuccino,8,176000
+2026-04-26,Matcha Latte (Iced),27,675000
+2026-04-26,Caramel Macchiato,40,1120000
+2026-04-26,Butter Croissant,35,700000
+2026-04-26,Red Velvet Cake,27,810000
+2026-04-27,Espresso,22,330000
+2026-04-27,Americano (Iced/Hot),9,162000
+2026-04-27,Cafe Latte,17,374000
+2026-04-27,Cappuccino,8,176000
+2026-04-27,Matcha Latte (Iced),21,525000
+2026-04-27,Caramel Macchiato,7,196000
+2026-04-27,Butter Croissant,21,420000
+2026-04-27,Red Velvet Cake,15,450000
+2026-04-28,Espresso,24,360000
+2026-04-28,Americano (Iced/Hot),27,486000
+2026-04-28,Cafe Latte,25,550000
+2026-04-28,Cappuccino,8,176000
+2026-04-28,Matcha Latte (Iced),6,150000
+2026-04-28,Caramel Macchiato,24,672000
+2026-04-28,Butter Croissant,20,400000
+2026-04-28,Red Velvet Cake,22,660000
+2026-04-29,Espresso,13,195000
+2026-04-29,Americano (Iced/Hot),24,432000
+2026-04-29,Cafe Latte,10,220000
+2026-04-29,Cappuccino,14,308000
+2026-04-29,Matcha Latte (Iced),25,625000
+2026-04-29,Caramel Macchiato,14,392000
+2026-04-29,Butter Croissant,17,340000
+2026-04-29,Red Velvet Cake,21,630000
+2026-04-30,Espresso,21,315000
+2026-04-30,Americano (Iced/Hot),28,504000
+2026-04-30,Cafe Latte,13,286000
+2026-04-30,Cappuccino,13,286000
+2026-04-30,Matcha Latte (Iced),5,125000
+2026-04-30,Caramel Macchiato,6,168000
+2026-04-30,Butter Croissant,20,400000
+2026-04-30,Red Velvet Cake,5,150000
+2026-05-01,Espresso,12,180000
+2026-05-01,Americano (Iced/Hot),25,450000
+2026-05-01,Cafe Latte,15,330000
+2026-05-01,Cappuccino,27,594000
+2026-05-01,Matcha Latte (Iced),6,150000
+2026-05-01,Caramel Macchiato,12,336000
+2026-05-01,Butter Croissant,26,520000
+2026-05-01,Red Velvet Cake,12,360000
+2026-05-02,Espresso,49,735000
+2026-05-02,Americano (Iced/Hot),17,306000
+2026-05-02,Cafe Latte,66,1452000
+2026-05-02,Cappuccino,40,880000
+2026-05-02,Matcha Latte (Iced),14,350000
+2026-05-02,Caramel Macchiato,21,588000
+2026-05-02,Butter Croissant,32,640000
+2026-05-02,Red Velvet Cake,10,300000
+2026-05-03,Espresso,19,285000
+2026-05-03,Americano (Iced/Hot),27,486000
+2026-05-03,Cafe Latte,19,418000
+2026-05-03,Cappuccino,46,1012000
+2026-05-03,Matcha Latte (Iced),43,1075000
+2026-05-03,Caramel Macchiato,24,672000
+2026-05-03,Butter Croissant,8,160000
+2026-05-03,Red Velvet Cake,27,810000
+2026-05-04,Espresso,7,105000
+2026-05-04,Americano (Iced/Hot),28,504000
+2026-05-04,Cafe Latte,21,462000
+2026-05-04,Cappuccino,9,198000
+2026-05-04,Matcha Latte (Iced),24,600000
+2026-05-04,Caramel Macchiato,25,700000
+2026-05-04,Butter Croissant,12,240000
+2026-05-04,Red Velvet Cake,18,540000
+2026-05-05,Espresso,24,360000
+2026-05-05,Americano (Iced/Hot),19,342000
+2026-05-05,Cafe Latte,23,506000
+2026-05-05,Cappuccino,11,242000
+2026-05-05,Matcha Latte (Iced),23,575000
+2026-05-05,Caramel Macchiato,23,644000
+2026-05-05,Butter Croissant,15,300000
+2026-05-05,Red Velvet Cake,9,270000
+2026-05-06,Espresso,26,390000
+2026-05-06,Americano (Iced/Hot),12,216000
+2026-05-06,Cafe Latte,14,308000
+2026-05-06,Cappuccino,10,220000
+2026-05-06,Matcha Latte (Iced),19,475000
+2026-05-06,Caramel Macchiato,20,560000
+2026-05-06,Butter Croissant,21,420000
+2026-05-06,Red Velvet Cake,12,360000
+2026-05-07,Espresso,29,435000
+2026-05-07,Americano (Iced/Hot),13,234000
+2026-05-07,Cafe Latte,6,132000
+2026-05-07,Cappuccino,19,418000
+2026-05-07,Matcha Latte (Iced),22,550000
+2026-05-07,Caramel Macchiato,7,196000
+2026-05-07,Butter Croissant,21,420000
+2026-05-07,Red Velvet Cake,8,240000
+2026-05-08,Espresso,18,270000
+2026-05-08,Americano (Iced/Hot),13,234000
+2026-05-08,Cafe Latte,13,286000
+2026-05-08,Cappuccino,29,638000
+2026-05-08,Matcha Latte (Iced),27,675000
+2026-05-08,Caramel Macchiato,22,616000
+2026-05-08,Butter Croissant,14,280000
+2026-05-08,Red Velvet Cake,25,750000
+2026-05-09,Espresso,28,420000
+2026-05-09,Americano (Iced/Hot),3,54000
+2026-05-09,Cafe Latte,61,1342000
+2026-05-09,Cappuccino,40,880000
+2026-05-09,Matcha Latte (Iced),16,400000
+2026-05-09,Caramel Macchiato,48,1344000
+2026-05-09,Butter Croissant,11,220000
+2026-05-09,Red Velvet Cake,31,930000
+2026-05-10,Espresso,49,735000
+2026-05-10,Americano (Iced/Hot),7,126000
+2026-05-10,Cafe Latte,52,1144000
+2026-05-10,Cappuccino,64,1408000
+2026-05-10,Matcha Latte (Iced),8,200000
+2026-05-10,Caramel Macchiato,69,1932000
+2026-05-10,Butter Croissant,24,480000
+2026-05-10,Red Velvet Cake,36,1080000
+2026-05-11,Espresso,29,435000
+2026-05-11,Americano (Iced/Hot),22,396000
+2026-05-11,Cafe Latte,26,572000
+2026-05-11,Cappuccino,24,528000
+2026-05-11,Matcha Latte (Iced),24,600000
+2026-05-11,Caramel Macchiato,25,700000
+2026-05-11,Butter Croissant,16,320000
+2026-05-11,Red Velvet Cake,23,690000
+2026-05-12,Espresso,28,420000
+2026-05-12,Americano (Iced/Hot),25,450000
+2026-05-12,Cafe Latte,7,154000
+2026-05-12,Cappuccino,27,594000
+2026-05-12,Matcha Latte (Iced),11,275000
+2026-05-12,Caramel Macchiato,21,588000
+2026-05-12,Butter Croissant,16,320000
+2026-05-12,Red Velvet Cake,13,390000
+2026-05-13,Espresso,25,375000
+2026-05-13,Americano (Iced/Hot),17,306000
+2026-05-13,Cafe Latte,25,550000
+2026-05-13,Cappuccino,12,264000
+2026-05-13,Matcha Latte (Iced),18,450000
+2026-05-13,Caramel Macchiato,12,336000
+2026-05-13,Butter Croissant,18,360000
+2026-05-13,Red Velvet Cake,11,330000
+2026-05-14,Espresso,22,330000
+2026-05-14,Americano (Iced/Hot),10,180000
+2026-05-14,Cafe Latte,39,858000
+2026-05-14,Cappuccino,22,484000
+2026-05-14,Matcha Latte (Iced),11,275000
+2026-05-14,Caramel Macchiato,39,1092000
+2026-05-14,Butter Croissant,22,440000
+2026-05-14,Red Velvet Cake,28,840000
+2026-05-15,Espresso,37,555000
+2026-05-15,Americano (Iced/Hot),7,126000
+2026-05-15,Cafe Latte,36,792000
+2026-05-15,Cappuccino,33,726000
+2026-05-15,Matcha Latte (Iced),7,175000
+2026-05-15,Caramel Macchiato,34,952000
+2026-05-15,Butter Croissant,35,700000
+2026-05-15,Red Velvet Cake,36,1080000
+2026-05-16,Espresso,61,915000
+2026-05-16,Americano (Iced/Hot),9,162000
+2026-05-16,Cafe Latte,21,462000
+2026-05-16,Cappuccino,12,264000
+2026-05-16,Matcha Latte (Iced),17,425000
+2026-05-16,Caramel Macchiato,16,448000
+2026-05-16,Butter Croissant,53,1060000
+2026-05-16,Red Velvet Cake,46,1380000
+2026-05-17,Espresso,25,375000
+2026-05-17,Americano (Iced/Hot),10,180000
+2026-05-17,Cafe Latte,45,990000
+2026-05-17,Cappuccino,69,1518000
+2026-05-17,Matcha Latte (Iced),5,125000
+2026-05-17,Caramel Macchiato,45,1260000
+2026-05-17,Butter Croissant,24,480000
+2026-05-17,Red Velvet Cake,28,840000
+2026-05-18,Espresso,12,180000
+2026-05-18,Americano (Iced/Hot),5,90000
+2026-05-18,Cafe Latte,16,352000
+2026-05-18,Cappuccino,9,198000
+2026-05-18,Matcha Latte (Iced),7,175000
+2026-05-18,Caramel Macchiato,5,140000
+2026-05-18,Butter Croissant,8,160000
+2026-05-18,Red Velvet Cake,12,360000
+2026-05-19,Espresso,21,315000
+2026-05-19,Americano (Iced/Hot),2,36000
+2026-05-19,Cafe Latte,22,484000
+2026-05-19,Cappuccino,43,946000
+2026-05-19,Matcha Latte (Iced),5,125000
+2026-05-19,Caramel Macchiato,37,1036000
+2026-05-19,Butter Croissant,23,460000
+2026-05-19,Red Velvet Cake,14,420000
+2026-05-20,Espresso,6,90000
+2026-05-20,Americano (Iced/Hot),13,234000
+2026-05-20,Cafe Latte,20,440000
+2026-05-20,Cappuccino,17,374000
+2026-05-20,Matcha Latte (Iced),13,325000
+2026-05-20,Caramel Macchiato,24,672000
+2026-05-20,Butter Croissant,8,160000
+2026-05-20,Red Velvet Cake,26,780000
+2026-05-21,Espresso,26,390000
+2026-05-21,Americano (Iced/Hot),16,288000
+2026-05-21,Cafe Latte,21,462000
+2026-05-21,Cappuccino,18,396000
+2026-05-21,Matcha Latte (Iced),18,450000
+2026-05-21,Caramel Macchiato,29,812000
+2026-05-21,Butter Croissant,6,120000
+2026-05-21,Red Velvet Cake,25,750000
+2026-05-22,Espresso,22,330000
+2026-05-22,Americano (Iced/Hot),8,144000
+2026-05-22,Cafe Latte,34,748000
+2026-05-22,Cappuccino,40,880000
+2026-05-22,Matcha Latte (Iced),4,100000
+2026-05-22,Caramel Macchiato,42,1176000
+2026-05-22,Butter Croissant,29,580000
+2026-05-22,Red Velvet Cake,11,330000
+2026-05-23,Espresso,45,675000
+2026-05-23,Americano (Iced/Hot),4,72000
+2026-05-23,Cafe Latte,57,1254000
+2026-05-23,Cappuccino,33,726000
+2026-05-23,Matcha Latte (Iced),17,425000
+2026-05-23,Caramel Macchiato,61,1708000
+2026-05-23,Butter Croissant,14,280000
+2026-05-23,Red Velvet Cake,18,540000
+2026-05-24,Espresso,41,615000
+2026-05-24,Americano (Iced/Hot),19,342000
+2026-05-24,Cafe Latte,17,374000
+2026-05-24,Cappuccino,40,880000
+2026-05-24,Matcha Latte (Iced),22,550000
+2026-05-24,Caramel Macchiato,16,448000
+2026-05-24,Butter Croissant,28,560000
+2026-05-24,Red Velvet Cake,12,360000
+2026-05-25,Espresso,25,375000
+2026-05-25,Americano (Iced/Hot),9,162000
+2026-05-25,Cafe Latte,31,682000
+2026-05-25,Cappuccino,40,880000
+2026-05-25,Matcha Latte (Iced),4,100000
+2026-05-25,Caramel Macchiato,12,336000
+2026-05-25,Butter Croissant,23,460000
+2026-05-25,Red Velvet Cake,9,270000
+2026-05-26,Espresso,30,450000
+2026-05-26,Americano (Iced/Hot),10,180000
+2026-05-26,Cafe Latte,36,792000
+2026-05-26,Cappuccino,12,264000
+2026-05-26,Matcha Latte (Iced),11,275000
+2026-05-26,Caramel Macchiato,42,1176000
+2026-05-26,Butter Croissant,7,140000
+2026-05-26,Red Velvet Cake,28,840000
+2026-05-27,Espresso,23,345000
+2026-05-27,Americano (Iced/Hot),21,378000
+2026-05-27,Cafe Latte,18,396000
+2026-05-27,Cappuccino,23,506000
+2026-05-27,Matcha Latte (Iced),26,650000
+2026-05-27,Caramel Macchiato,28,784000
+2026-05-27,Butter Croissant,17,340000
+2026-05-27,Red Velvet Cake,16,480000
+2026-05-28,Espresso,10,150000
+2026-05-28,Americano (Iced/Hot),25,450000
+2026-05-28,Cafe Latte,8,176000
+2026-05-28,Cappuccino,23,506000
+2026-05-28,Matcha Latte (Iced),20,500000
+2026-05-28,Caramel Macchiato,17,476000
+2026-05-28,Butter Croissant,8,160000
+2026-05-28,Red Velvet Cake,27,810000
+2026-05-29,Espresso,5,75000
+2026-05-29,Americano (Iced/Hot),22,396000
+2026-05-29,Cafe Latte,24,528000
+2026-05-29,Cappuccino,21,462000
+2026-05-29,Matcha Latte (Iced),19,475000
+2026-05-29,Caramel Macchiato,15,420000
+2026-05-29,Butter Croissant,29,580000
+2026-05-29,Red Velvet Cake,26,780000
+2026-05-30,Espresso,33,495000
+2026-05-30,Americano (Iced/Hot),16,288000
+2026-05-30,Cafe Latte,12,264000
+2026-05-30,Cappuccino,38,836000
+2026-05-30,Matcha Latte (Iced),32,800000
+2026-05-30,Caramel Macchiato,30,840000
+2026-05-30,Butter Croissant,30,600000
+2026-05-30,Red Velvet Cake,16,480000
+2026-05-31,Espresso,24,360000
+2026-05-31,Americano (Iced/Hot),17,306000
+2026-05-31,Cafe Latte,20,440000
+2026-05-31,Cappuccino,32,704000
+2026-05-31,Matcha Latte (Iced),14,350000
+2026-05-31,Caramel Macchiato,46,1288000
+2026-05-31,Butter Croissant,38,760000
+2026-05-31,Red Velvet Cake,22,660000
+2026-06-01,Espresso,25,375000
+2026-06-01,Americano (Iced/Hot),6,108000
+2026-06-01,Cafe Latte,31,682000
+2026-06-01,Cappuccino,39,858000
+2026-06-01,Matcha Latte (Iced),6,150000
+2026-06-01,Caramel Macchiato,15,420000
+2026-06-01,Butter Croissant,27,540000
+2026-06-01,Red Velvet Cake,22,660000
+2026-06-02,Espresso,23,345000
+2026-06-02,Americano (Iced/Hot),14,252000
+2026-06-02,Cafe Latte,7,154000
+2026-06-02,Cappuccino,18,396000
+2026-06-02,Matcha Latte (Iced),23,575000
+2026-06-02,Caramel Macchiato,9,252000
+2026-06-02,Butter Croissant,9,180000
+2026-06-02,Red Velvet Cake,24,720000
+2026-06-03,Espresso,14,210000
+2026-06-03,Americano (Iced/Hot),9,162000
+2026-06-03,Cafe Latte,8,176000
+2026-06-03,Cappuccino,10,220000
+2026-06-03,Matcha Latte (Iced),8,200000
+2026-06-03,Caramel Macchiato,11,308000
+2026-06-03,Butter Croissant,11,220000
+2026-06-03,Red Velvet Cake,22,660000
+2026-06-04,Espresso,28,420000
+2026-06-04,Americano (Iced/Hot),29,522000
+2026-06-04,Cafe Latte,8,176000
+2026-06-04,Cappuccino,10,220000
+2026-06-04,Matcha Latte (Iced),13,325000
+2026-06-04,Caramel Macchiato,26,728000
+2026-06-04,Butter Croissant,18,360000
+2026-06-04,Red Velvet Cake,16,480000
+2026-06-05,Espresso,36,540000
+2026-06-05,Americano (Iced/Hot),11,198000
+2026-06-05,Cafe Latte,43,946000
+2026-06-05,Cappuccino,12,264000
+2026-06-05,Matcha Latte (Iced),10,250000
+2026-06-05,Caramel Macchiato,42,1176000
+2026-06-05,Butter Croissant,20,400000
+2026-06-05,Red Velvet Cake,18,540000
+2026-06-06,Espresso,25,375000
+2026-06-06,Americano (Iced/Hot),4,72000
+2026-06-06,Cafe Latte,64,1408000
+2026-06-06,Cappuccino,42,924000
+2026-06-06,Matcha Latte (Iced),17,425000
+2026-06-06,Caramel Macchiato,33,924000
+2026-06-06,Butter Croissant,41,820000
+2026-06-06,Red Velvet Cake,41,1230000
+2026-06-07,Espresso,22,330000
+2026-06-07,Americano (Iced/Hot),46,828000
+2026-06-07,Cafe Latte,27,594000
+2026-06-07,Cappuccino,16,352000
+2026-06-07,Matcha Latte (Iced),25,625000
+2026-06-07,Caramel Macchiato,20,560000
+2026-06-07,Butter Croissant,27,540000
+2026-06-07,Red Velvet Cake,12,360000
+2026-06-08,Espresso,36,540000
+2026-06-08,Americano (Iced/Hot),8,144000
+2026-06-08,Cafe Latte,22,484000
+2026-06-08,Cappuccino,43,946000
+2026-06-08,Matcha Latte (Iced),10,250000
+2026-06-08,Caramel Macchiato,12,336000
+2026-06-08,Butter Croissant,28,560000
+2026-06-08,Red Velvet Cake,6,180000
+2026-06-09,Espresso,10,150000
+2026-06-09,Americano (Iced/Hot),19,342000
+2026-06-09,Cafe Latte,22,484000
+2026-06-09,Cappuccino,28,616000
+2026-06-09,Matcha Latte (Iced),15,375000
+2026-06-09,Caramel Macchiato,24,672000
+2026-06-09,Butter Croissant,28,560000
+2026-06-09,Red Velvet Cake,19,570000
+2026-06-10,Espresso,25,375000
+2026-06-10,Americano (Iced/Hot),14,252000
+2026-06-10,Cafe Latte,16,352000
+2026-06-10,Cappuccino,28,616000
+2026-06-10,Matcha Latte (Iced),18,450000
+2026-06-10,Caramel Macchiato,29,812000
+2026-06-10,Butter Croissant,9,180000
+2026-06-10,Red Velvet Cake,25,750000
+2026-06-11,Espresso,10,150000
+2026-06-11,Americano (Iced/Hot),10,180000
+2026-06-11,Cafe Latte,13,286000
+2026-06-11,Cappuccino,42,924000
+2026-06-11,Matcha Latte (Iced),8,200000
+2026-06-11,Caramel Macchiato,34,952000
+2026-06-11,Butter Croissant,29,580000
+2026-06-11,Red Velvet Cake,37,1110000
+2026-06-12,Espresso,16,240000
+2026-06-12,Americano (Iced/Hot),29,522000
+2026-06-12,Cafe Latte,13,286000
+2026-06-12,Cappuccino,5,110000
+2026-06-12,Matcha Latte (Iced),22,550000
+2026-06-12,Caramel Macchiato,25,700000
+2026-06-12,Butter Croissant,8,160000
+2026-06-12,Red Velvet Cake,14,420000
+2026-06-13,Espresso,61,915000
+2026-06-13,Americano (Iced/Hot),17,306000
+2026-06-13,Cafe Latte,12,264000
+2026-06-13,Cappuccino,49,1078000
+2026-06-13,Matcha Latte (Iced),17,425000
+2026-06-13,Caramel Macchiato,13,364000
+2026-06-13,Butter Croissant,31,620000
+2026-06-13,Red Velvet Cake,26,780000
+2026-06-14,Espresso,33,495000
+2026-06-14,Americano (Iced/Hot),33,594000
+2026-06-14,Cafe Latte,9,198000
+2026-06-14,Cappuccino,16,352000
+2026-06-14,Matcha Latte (Iced),28,700000
+2026-06-14,Caramel Macchiato,16,448000
+2026-06-14,Butter Croissant,9,180000
+2026-06-14,Red Velvet Cake,8,240000
+2026-06-15,Espresso,9,135000
+2026-06-15,Americano (Iced/Hot),6,108000
+2026-06-15,Cafe Latte,26,572000
+2026-06-15,Cappuccino,20,440000
+2026-06-15,Matcha Latte (Iced),29,725000
+2026-06-15,Caramel Macchiato,6,168000
+2026-06-15,Butter Croissant,14,280000
+2026-06-15,Red Velvet Cake,6,180000
+2026-06-16,Espresso,23,345000
+2026-06-16,Americano (Iced/Hot),11,198000
+2026-06-16,Cafe Latte,26,572000
+2026-06-16,Cappuccino,16,352000
+2026-06-16,Matcha Latte (Iced),28,700000
+2026-06-16,Caramel Macchiato,19,532000
+2026-06-16,Butter Croissant,12,240000
+2026-06-16,Red Velvet Cake,10,300000
+2026-06-17,Espresso,14,210000
+2026-06-17,Americano (Iced/Hot),7,126000
+2026-06-17,Cafe Latte,23,506000
+2026-06-17,Cappuccino,21,462000
+2026-06-17,Matcha Latte (Iced),11,275000
+2026-06-17,Caramel Macchiato,25,700000
+2026-06-17,Butter Croissant,24,480000
+2026-06-17,Red Velvet Cake,8,240000
+2026-06-18,Espresso,26,390000
+2026-06-18,Americano (Iced/Hot),19,342000
+2026-06-18,Cafe Latte,28,616000
+2026-06-18,Cappuccino,12,264000
+2026-06-18,Matcha Latte (Iced),25,625000
+2026-06-18,Caramel Macchiato,19,532000
+2026-06-18,Butter Croissant,26,520000
+2026-06-18,Red Velvet Cake,24,720000
+2026-06-19,Espresso,13,195000
+2026-06-19,Americano (Iced/Hot),12,216000
+2026-06-19,Cafe Latte,21,462000
+2026-06-19,Cappuccino,6,132000
+2026-06-19,Matcha Latte (Iced),29,725000
+2026-06-19,Caramel Macchiato,28,784000
+2026-06-19,Butter Croissant,7,140000
+2026-06-19,Red Velvet Cake,12,360000
+2026-06-20,Espresso,33,495000
+2026-06-20,Americano (Iced/Hot),15,270000
+2026-06-20,Cafe Latte,16,352000
+2026-06-20,Cappuccino,24,528000
+2026-06-20,Matcha Latte (Iced),6,150000
+2026-06-20,Caramel Macchiato,57,1596000
+2026-06-20,Butter Croissant,55,1100000
+2026-06-20,Red Velvet Cake,59,1770000
+2026-06-21,Espresso,36,540000
+2026-06-21,Americano (Iced/Hot),14,252000
+2026-06-21,Cafe Latte,21,462000
+2026-06-21,Cappuccino,54,1188000
+2026-06-21,Matcha Latte (Iced),9,225000
+2026-06-21,Caramel Macchiato,66,1848000
+2026-06-21,Butter Croissant,32,640000
+2026-06-21,Red Velvet Cake,28,840000
+2026-06-22,Espresso,19,285000
+2026-06-22,Americano (Iced/Hot),3,54000
+2026-06-22,Cafe Latte,13,286000
+2026-06-22,Cappuccino,37,814000
+2026-06-22,Matcha Latte (Iced),4,100000
+2026-06-22,Caramel Macchiato,40,1120000
+2026-06-22,Butter Croissant,16,320000
+2026-06-22,Red Velvet Cake,24,720000
+2026-06-23,Espresso,27,405000
+2026-06-23,Americano (Iced/Hot),4,72000
+2026-06-23,Cafe Latte,33,726000
+2026-06-23,Cappuccino,21,462000
+2026-06-23,Matcha Latte (Iced),9,225000
+2026-06-23,Caramel Macchiato,15,420000
+2026-06-23,Butter Croissant,20,400000
+2026-06-23,Red Velvet Cake,7,210000
+2026-06-24,Espresso,10,150000
+2026-06-24,Americano (Iced/Hot),6,108000
+2026-06-24,Cafe Latte,10,220000
+2026-06-24,Cappuccino,33,726000
+2026-06-24,Matcha Latte (Iced),6,150000
+2026-06-24,Caramel Macchiato,18,504000
+2026-06-24,Butter Croissant,13,260000
+2026-06-24,Red Velvet Cake,6,180000
+2026-06-25,Espresso,27,405000
+2026-06-25,Americano (Iced/Hot),12,216000
+2026-06-25,Cafe Latte,9,198000
+2026-06-25,Cappuccino,20,440000
+2026-06-25,Matcha Latte (Iced),15,375000
+2026-06-25,Caramel Macchiato,9,252000
+2026-06-25,Butter Croissant,8,160000
+2026-06-25,Red Velvet Cake,10,300000
+2026-06-26,Espresso,23,345000
+2026-06-26,Americano (Iced/Hot),13,234000
+2026-06-26,Cafe Latte,16,352000
+2026-06-26,Cappuccino,15,330000
+2026-06-26,Matcha Latte (Iced),18,450000
+2026-06-26,Caramel Macchiato,27,756000
+2026-06-26,Butter Croissant,20,400000
+2026-06-26,Red Velvet Cake,5,150000
+2026-06-27,Espresso,43,645000
+2026-06-27,Americano (Iced/Hot),40,720000
+2026-06-27,Cafe Latte,40,880000
+2026-06-27,Cappuccino,27,594000
+2026-06-27,Matcha Latte (Iced),9,225000
+2026-06-27,Caramel Macchiato,12,336000
+2026-06-27,Butter Croissant,16,320000
+2026-06-27,Red Velvet Cake,43,1290000
+2026-06-28,Espresso,21,315000
+2026-06-28,Americano (Iced/Hot),18,324000
+2026-06-28,Cafe Latte,16,352000
+2026-06-28,Cappuccino,12,264000
+2026-06-28,Matcha Latte (Iced),4,100000
+2026-06-28,Caramel Macchiato,69,1932000
+2026-06-28,Butter Croissant,49,980000
+2026-06-28,Red Velvet Cake,11,330000
+2026-06-29,Espresso,13,195000
+2026-06-29,Americano (Iced/Hot),2,36000
+2026-06-29,Cafe Latte,19,418000
+2026-06-29,Cappuccino,36,792000
+2026-06-29,Matcha Latte (Iced),4,100000
+2026-06-29,Caramel Macchiato,33,924000
+2026-06-29,Butter Croissant,13,260000
+2026-06-29,Red Velvet Cake,29,870000
+2026-06-30,Espresso,29,435000
+2026-06-30,Americano (Iced/Hot),15,270000
+2026-06-30,Cafe Latte,6,132000
+2026-06-30,Cappuccino,19,418000
+2026-06-30,Matcha Latte (Iced),16,400000
+2026-06-30,Caramel Macchiato,16,448000
+2026-06-30,Butter Croissant,13,260000
+2026-06-30,Red Velvet Cake,25,750000
+2026-07-01,Espresso,39,585000
+2026-07-01,Americano (Iced/Hot),2,36000
+2026-07-01,Cafe Latte,24,528000
+2026-07-01,Cappuccino,30,660000
+2026-07-01,Matcha Latte (Iced),10,250000
+2026-07-01,Caramel Macchiato,42,1176000
+2026-07-01,Butter Croissant,6,120000
+2026-07-01,Red Velvet Cake,32,960000
+2026-07-02,Espresso,6,90000
+2026-07-02,Americano (Iced/Hot),13,234000
+2026-07-02,Cafe Latte,23,506000
+2026-07-02,Cappuccino,19,418000
+2026-07-02,Matcha Latte (Iced),22,550000
+2026-07-02,Caramel Macchiato,15,420000
+2026-07-02,Butter Croissant,29,580000
+2026-07-02,Red Velvet Cake,27,810000
+2026-07-03,Espresso,26,390000
+2026-07-03,Americano (Iced/Hot),21,378000
+2026-07-03,Cafe Latte,9,198000
+2026-07-03,Cappuccino,16,352000
+2026-07-03,Matcha Latte (Iced),15,375000
+2026-07-03,Caramel Macchiato,19,532000
+2026-07-03,Butter Croissant,7,140000
+2026-07-03,Red Velvet Cake,5,150000
+2026-07-04,Espresso,48,720000
+2026-07-04,Americano (Iced/Hot),3,54000
+2026-07-04,Cafe Latte,13,286000
+2026-07-04,Cappuccino,16,352000
+2026-07-04,Matcha Latte (Iced),7,175000
+2026-07-04,Caramel Macchiato,66,1848000
+2026-07-04,Butter Croissant,39,780000
+2026-07-04,Red Velvet Cake,22,660000
+2026-07-05,Espresso,57,855000
+2026-07-05,Americano (Iced/Hot),3,54000
+2026-07-05,Cafe Latte,28,616000
+2026-07-05,Cappuccino,64,1408000
+2026-07-05,Matcha Latte (Iced),17,425000
+2026-07-05,Caramel Macchiato,16,448000
+2026-07-05,Butter Croissant,15,300000
+2026-07-05,Red Velvet Cake,59,1770000
+2026-07-06,Espresso,28,420000
+2026-07-06,Americano (Iced/Hot),10,180000
+2026-07-06,Cafe Latte,10,220000
+2026-07-06,Cappuccino,43,946000
+2026-07-06,Matcha Latte (Iced),10,250000
+2026-07-06,Caramel Macchiato,37,1036000
+2026-07-06,Butter Croissant,23,460000
+2026-07-06,Red Velvet Cake,31,930000
+2026-07-07,Espresso,16,240000
+2026-07-07,Americano (Iced/Hot),21,378000
+2026-07-07,Cafe Latte,11,242000
+2026-07-07,Cappuccino,13,286000
+2026-07-07,Matcha Latte (Iced),7,175000
+2026-07-07,Caramel Macchiato,17,476000
+2026-07-07,Butter Croissant,19,380000
+2026-07-07,Red Velvet Cake,22,660000
+2026-07-08,Espresso,10,150000
+2026-07-08,Americano (Iced/Hot),27,486000
+2026-07-08,Cafe Latte,6,132000
+2026-07-08,Cappuccino,28,616000
+2026-07-08,Matcha Latte (Iced),18,450000
+2026-07-08,Caramel Macchiato,10,280000
+2026-07-08,Butter Croissant,18,360000
+2026-07-08,Red Velvet Cake,8,240000
+2026-07-09,Espresso,10,150000
+2026-07-09,Americano (Iced/Hot),9,162000
+2026-07-09,Cafe Latte,27,594000
+2026-07-09,Cappuccino,36,792000
+2026-07-09,Matcha Latte (Iced),8,200000
+2026-07-09,Caramel Macchiato,43,1204000
+2026-07-09,Butter Croissant,15,300000
+2026-07-09,Red Velvet Cake,36,1080000
+2026-07-10,Espresso,15,225000
+2026-07-10,Americano (Iced/Hot),10,180000
+2026-07-10,Cafe Latte,39,858000
+2026-07-10,Cappuccino,30,660000
+2026-07-10,Matcha Latte (Iced),11,275000
+2026-07-10,Caramel Macchiato,34,952000
+2026-07-10,Butter Croissant,23,460000
+2026-07-10,Red Velvet Cake,29,870000
+2026-07-11,Espresso,36,540000
+2026-07-11,Americano (Iced/Hot),20,360000
+2026-07-11,Cafe Latte,38,836000
+2026-07-11,Cappuccino,27,594000
+2026-07-11,Matcha Latte (Iced),17,425000
+2026-07-11,Caramel Macchiato,28,784000
+2026-07-11,Butter Croissant,20,400000
+2026-07-11,Red Velvet Cake,43,1290000
+2026-07-12,Espresso,36,540000
+2026-07-12,Americano (Iced/Hot),30,540000
+2026-07-12,Cafe Latte,38,836000
+2026-07-12,Cappuccino,28,616000
+2026-07-12,Matcha Latte (Iced),44,1100000
+2026-07-12,Caramel Macchiato,16,448000
+2026-07-12,Butter Croissant,40,800000
+2026-07-12,Red Velvet Cake,12,360000
+2026-07-13,Espresso,19,285000
+2026-07-13,Americano (Iced/Hot),2,36000
+2026-07-13,Cafe Latte,42,924000
+2026-07-13,Cappuccino,36,792000
+2026-07-13,Matcha Latte (Iced),11,275000
+2026-07-13,Caramel Macchiato,27,756000
+2026-07-13,Butter Croissant,19,380000
+2026-07-13,Red Velvet Cake,32,960000
+2026-07-14,Espresso,27,405000
+2026-07-14,Americano (Iced/Hot),5,90000
+2026-07-14,Cafe Latte,12,264000
+2026-07-14,Cappuccino,12,264000
+2026-07-14,Matcha Latte (Iced),4,100000
+2026-07-14,Caramel Macchiato,9,252000
+2026-07-14,Butter Croissant,16,320000
+2026-07-14,Red Velvet Cake,23,690000
+2026-07-15,Espresso,42,630000
+2026-07-15,Americano (Iced/Hot),10,180000
+2026-07-15,Cafe Latte,30,660000
+2026-07-15,Cappuccino,31,682000
+2026-07-15,Matcha Latte (Iced),8,200000
+2026-07-15,Caramel Macchiato,24,672000
+2026-07-15,Butter Croissant,9,180000
+2026-07-15,Red Velvet Cake,19,570000
