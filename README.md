@@ -35,7 +35,6 @@ Sebuah aplikasi web interaktif berbasis **Streamlit** yang dirancang khusus untu
 *Tampilan Obrolan Bersama Asisten AI:*
 ![Chat AI](assets/screenshot_chat.png)
 
-*(Catatan: Pastikan Anda mengganti gambar di atas dengan screenshot asli aplikasi Anda dan menyimpannya di folder `assets/` sebelum mengunggah ke GitHub).*
 
 ---
 
